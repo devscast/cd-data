@@ -1,0 +1,5194 @@
+﻿{
+    "zs_pop_2k20": [
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Bandalungwa",
+            "pcode_zs": "CD1000ZS01",
+            "pop_2019": " 216,767 ",
+            "pop_2020 ": " 226,955 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Barumbu",
+            "pcode_zs": "CD1000ZS02",
+            "pop_2019": " 181,160 ",
+            "pop_2020 ": " 189,675 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Binza Meteo",
+            "pcode_zs": "CD1000ZS03",
+            "pop_2019": " 478,978 ",
+            "pop_2020 ": " 501,490 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Binza Ozone",
+            "pcode_zs": "CD1000ZS04",
+            "pop_2019": " 446,411 ",
+            "pop_2020 ": " 467,392 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Biyela",
+            "pcode_zs": "CD1000ZS05",
+            "pop_2019": " 268,476 ",
+            "pop_2020 ": " 281,094 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Bumbu",
+            "pcode_zs": "CD1000ZS06",
+            "pop_2019": " 494,289 ",
+            "pop_2020 ": " 517,521 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Gombe",
+            "pcode_zs": "CD1000ZS07",
+            "pop_2019": " 106,303 ",
+            "pop_2020 ": " 111,299 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Kalamu I",
+            "pcode_zs": "CD1000ZS08",
+            "pop_2019": " 173,990 ",
+            "pop_2020 ": " 182,168 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Kalamu II",
+            "pcode_zs": "CD1000ZS09",
+            "pop_2019": " 155,295 ",
+            "pop_2020 ": " 162,594 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Kasa-Vubu",
+            "pcode_zs": "CD1000ZS10",
+            "pop_2019": " 158,490 ",
+            "pop_2020 ": " 165,939 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Kikimi",
+            "pcode_zs": "CD1000ZS11",
+            "pop_2019": " 306,634 ",
+            "pop_2020 ": " 321,046 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Kimbanseke",
+            "pcode_zs": "CD1000ZS12",
+            "pop_2019": " 335,566 ",
+            "pop_2020 ": " 351,338 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Kingabwa",
+            "pcode_zs": "CD1000ZS13",
+            "pop_2019": " 250,124 ",
+            "pop_2020 ": " 261,880 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Kingasani",
+            "pcode_zs": "CD1000ZS14",
+            "pop_2019": " 264,322 ",
+            "pop_2020 ": " 276,745 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Kinshasa",
+            "pcode_zs": "CD1000ZS15",
+            "pop_2019": " 199,660 ",
+            "pop_2020 ": " 209,044 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Kintambo",
+            "pcode_zs": "CD1000ZS16",
+            "pop_2019": " 124,849 ",
+            "pop_2020 ": " 130,717 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Kisenso",
+            "pcode_zs": "CD1000ZS17",
+            "pop_2019": " 516,607 ",
+            "pop_2020 ": " 540,888 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Kokolo",
+            "pcode_zs": "CD1000ZS18",
+            "pop_2019": " 319,761 ",
+            "pop_2020 ": " 334,790 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Lemba",
+            "pcode_zs": "CD1000ZS19",
+            "pop_2019": " 384,135 ",
+            "pop_2020 ": " 402,189 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Limete",
+            "pcode_zs": "CD1000ZS20",
+            "pop_2019": " 223,943 ",
+            "pop_2020 ": " 234,468 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Lingwala",
+            "pcode_zs": "CD1000ZS21",
+            "pop_2019": " 102,623 ",
+            "pop_2020 ": " 107,446 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Makala",
+            "pcode_zs": "CD1000ZS22",
+            "pop_2019": " 366,872 ",
+            "pop_2020 ": " 384,115 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Maluku I",
+            "pcode_zs": "CD1000ZS23",
+            "pop_2019": " 214,567 ",
+            "pop_2020 ": " 224,652 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Maluku II",
+            "pcode_zs": "CD1000ZS24",
+            "pop_2019": " 78,548 ",
+            "pop_2020 ": " 82,240 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Masina I",
+            "pcode_zs": "CD1000ZS25",
+            "pop_2019": " 398,528 ",
+            "pop_2020 ": " 417,259 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Masina II",
+            "pcode_zs": "CD1000ZS26",
+            "pop_2019": " 329,108 ",
+            "pop_2020 ": " 344,576 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Matete",
+            "pcode_zs": "CD1000ZS27",
+            "pop_2019": " 344,004 ",
+            "pop_2020 ": " 360,172 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Mont Ngafula I",
+            "pcode_zs": "CD1000ZS28",
+            "pop_2019": " 294,390 ",
+            "pop_2020 ": " 308,226 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Mont Ngafula II",
+            "pcode_zs": "CD1000ZS29",
+            "pop_2019": " 172,461 ",
+            "pop_2020 ": " 180,567 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Ndjili",
+            "pcode_zs": "CD1000ZS30",
+            "pop_2019": " 384,157 ",
+            "pop_2020 ": " 402,212 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Ngaba",
+            "pcode_zs": "CD1000ZS31",
+            "pop_2019": " 217,055 ",
+            "pop_2020 ": " 227,257 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Ngiri-Ngiri",
+            "pcode_zs": "CD1000ZS32",
+            "pop_2019": " 193,533 ",
+            "pop_2020 ": " 202,629 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Nsele",
+            "pcode_zs": "CD1000ZS33",
+            "pop_2019": " 209,907 ",
+            "pop_2020 ": " 219,773 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Police",
+            "pcode_zs": "CD1000ZS34",
+            "pop_2019": " 152,475 ",
+            "pop_2020 ": " 159,641 "
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_terrtoire": "CD1000",
+            "zone_de_sante": "Selembao",
+            "pcode_zs": "CD1000ZS35",
+            "pop_2019": " 415,269 ",
+            "pop_2020 ": " 434,787 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Matadi",
+            "pcode_terrtoire": "CD2001",
+            "zone_de_sante": "Matadi",
+            "pcode_zs": "CD2001ZS01",
+            "pop_2019": " 174,295 ",
+            "pop_2020 ": " 180,221 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Matadi",
+            "pcode_terrtoire": "CD2001",
+            "zone_de_sante": "Nzanza",
+            "pcode_zs": "CD2001ZS02",
+            "pop_2019": " 154,564 ",
+            "pop_2020 ": " 159,819 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Boma",
+            "pcode_terrtoire": "CD2002",
+            "zone_de_sante": "Boma",
+            "pcode_zs": "CD2002ZS01",
+            "pop_2019": " 172,444 ",
+            "pop_2020 ": " 178,307 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Moanda",
+            "pcode_terrtoire": "CD2003",
+            "zone_de_sante": "Boma Bungu",
+            "pcode_zs": "CD2003ZS01",
+            "pop_2019": " 86,746 ",
+            "pop_2020 ": " 89,695 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Moanda",
+            "pcode_terrtoire": "CD2003",
+            "zone_de_sante": "Kitona",
+            "pcode_zs": "CD2003ZS02",
+            "pop_2019": " 105,411 ",
+            "pop_2020 ": " 108,995 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Moanda",
+            "pcode_terrtoire": "CD2003",
+            "zone_de_sante": "Moanda",
+            "pcode_zs": "CD2003ZS03",
+            "pop_2019": " 152,099 ",
+            "pop_2020 ": " 157,270 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Lukula",
+            "pcode_terrtoire": "CD2005",
+            "zone_de_sante": "Kangu",
+            "pcode_zs": "CD2005ZS01",
+            "pop_2019": " 112,400 ",
+            "pop_2020 ": " 116,222 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Lukula",
+            "pcode_terrtoire": "CD2005",
+            "zone_de_sante": "Lukula",
+            "pcode_zs": "CD2005ZS02",
+            "pop_2019": " 217,284 ",
+            "pop_2020 ": " 224,672 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Tshela",
+            "pcode_terrtoire": "CD2007",
+            "zone_de_sante": "Kinkonzi",
+            "pcode_zs": "CD2007ZS01",
+            "pop_2019": " 75,920 ",
+            "pop_2020 ": " 78,501 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Tshela",
+            "pcode_terrtoire": "CD2007",
+            "zone_de_sante": "Kizu",
+            "pcode_zs": "CD2007ZS02",
+            "pop_2019": " 70,227 ",
+            "pop_2020 ": " 72,615 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Tshela",
+            "pcode_terrtoire": "CD2007",
+            "zone_de_sante": "Kuimba",
+            "pcode_zs": "CD2007ZS03",
+            "pop_2019": " 94,027 ",
+            "pop_2020 ": " 97,224 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Tshela",
+            "pcode_terrtoire": "CD2007",
+            "zone_de_sante": "Tshela",
+            "pcode_zs": "CD2007ZS04",
+            "pop_2019": " 96,646 ",
+            "pop_2020 ": " 99,932 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Tshela",
+            "pcode_terrtoire": "CD2007",
+            "zone_de_sante": "Vaku",
+            "pcode_zs": "CD2007ZS05",
+            "pop_2019": " 80,943 ",
+            "pop_2020 ": " 83,695 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Seke-Banza",
+            "pcode_terrtoire": "CD2009",
+            "zone_de_sante": "Inga",
+            "pcode_zs": "CD2009ZS01",
+            "pop_2019": " 87,760 ",
+            "pop_2020 ": " 90,744 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Seke-Banza",
+            "pcode_terrtoire": "CD2009",
+            "zone_de_sante": "Seke-Banza",
+            "pcode_zs": "CD2009ZS02",
+            "pop_2019": " 159,787 ",
+            "pop_2020 ": " 165,220 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Luozi",
+            "pcode_terrtoire": "CD2010",
+            "zone_de_sante": "Kibunzi",
+            "pcode_zs": "CD2010ZS01",
+            "pop_2019": " 73,126 ",
+            "pop_2020 ": " 75,612 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Luozi",
+            "pcode_terrtoire": "CD2010",
+            "zone_de_sante": "Luozi",
+            "pcode_zs": "CD2010ZS02",
+            "pop_2019": " 96,344 ",
+            "pop_2020 ": " 99,620 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Luozi",
+            "pcode_terrtoire": "CD2010",
+            "zone_de_sante": "Mangembo",
+            "pcode_zs": "CD2010ZS03",
+            "pop_2019": " 87,985 ",
+            "pop_2020 ": " 90,976 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Songololo",
+            "pcode_terrtoire": "CD2011",
+            "zone_de_sante": "Kimpese",
+            "pcode_zs": "CD2011ZS01",
+            "pop_2019": " 212,372 ",
+            "pop_2020 ": " 219,593 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Songololo",
+            "pcode_terrtoire": "CD2011",
+            "zone_de_sante": "Nsona-Mpangu",
+            "pcode_zs": "CD2011ZS02",
+            "pop_2019": " 121,614 ",
+            "pop_2020 ": " 125,749 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Mbanza-Ngungu",
+            "pcode_terrtoire": "CD2013",
+            "zone_de_sante": "Boko-Kivulu",
+            "pcode_zs": "CD2013ZS01",
+            "pop_2019": " 164,356 ",
+            "pop_2020 ": " 169,944 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Mbanza-Ngungu",
+            "pcode_terrtoire": "CD2013",
+            "zone_de_sante": "Gombe-Matadi",
+            "pcode_zs": "CD2013ZS02",
+            "pop_2019": " 111,495 ",
+            "pop_2020 ": " 115,286 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Mbanza-Ngungu",
+            "pcode_terrtoire": "CD2013",
+            "zone_de_sante": "Kimpangu",
+            "pcode_zs": "CD2013ZS03",
+            "pop_2019": " 138,844 ",
+            "pop_2020 ": " 143,565 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Mbanza-Ngungu",
+            "pcode_terrtoire": "CD2013",
+            "zone_de_sante": "Kwilu-Ngongo",
+            "pcode_zs": "CD2013ZS04",
+            "pop_2019": " 167,594 ",
+            "pop_2020 ": " 173,292 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Mbanza-Ngungu",
+            "pcode_terrtoire": "CD2013",
+            "zone_de_sante": "Mbanza-Ngungu",
+            "pcode_zs": "CD2013ZS05",
+            "pop_2019": " 120,424 ",
+            "pop_2020 ": " 124,518 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Kasangulu",
+            "pcode_terrtoire": "CD2015",
+            "zone_de_sante": "Masa",
+            "pcode_zs": "CD2015ZS01",
+            "pop_2019": " 127,172 ",
+            "pop_2020 ": " 131,496 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Kasangulu",
+            "pcode_terrtoire": "CD2015",
+            "zone_de_sante": "Sona-Bata",
+            "pcode_zs": "CD2015ZS02",
+            "pop_2019": " 115,677 ",
+            "pop_2020 ": " 119,610 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Madimba",
+            "pcode_terrtoire": "CD2017",
+            "zone_de_sante": "Kisantu",
+            "pcode_zs": "CD2017ZS01",
+            "pop_2019": " 196,173 ",
+            "pop_2020 ": " 202,843 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Madimba",
+            "pcode_terrtoire": "CD2017",
+            "zone_de_sante": "Ngidinga",
+            "pcode_zs": "CD2017ZS02",
+            "pop_2019": " 133,566 ",
+            "pop_2020 ": " 138,107 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Madimba",
+            "pcode_terrtoire": "CD2017",
+            "zone_de_sante": "Nselo",
+            "pcode_zs": "CD2017ZS03",
+            "pop_2019": " 95,946 ",
+            "pop_2020 ": " 99,208 "
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Kimvula",
+            "pcode_terrtoire": "CD2019",
+            "zone_de_sante": "Kimvula",
+            "pcode_zs": "CD2019ZS01",
+            "pop_2019": " 83,749 ",
+            "pop_2020 ": " 86,596 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Kenge",
+            "pcode_terrtoire": "CD3102",
+            "zone_de_sante": "Boko",
+            "pcode_zs": "CD3102ZS01",
+            "pop_2019": " 215,172 ",
+            "pop_2020 ": " 221,627 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Kenge",
+            "pcode_terrtoire": "CD3102",
+            "zone_de_sante": "Kenge",
+            "pcode_zs": "CD3102ZS02",
+            "pop_2019": " 291,462 ",
+            "pop_2020 ": " 300,206 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Kenge",
+            "pcode_terrtoire": "CD3102",
+            "zone_de_sante": "Kimbau",
+            "pcode_zs": "CD3102ZS03",
+            "pop_2019": " 185,111 ",
+            "pop_2020 ": " 190,664 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Feshi",
+            "pcode_terrtoire": "CD3103",
+            "zone_de_sante": "Feshi",
+            "pcode_zs": "CD3103ZS01",
+            "pop_2019": " 152,548 ",
+            "pop_2020 ": " 157,124 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Feshi",
+            "pcode_terrtoire": "CD3103",
+            "zone_de_sante": "Kisanji",
+            "pcode_zs": "CD3103ZS02",
+            "pop_2019": " 121,401 ",
+            "pop_2020 ": " 125,043 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Feshi",
+            "pcode_terrtoire": "CD3103",
+            "zone_de_sante": "Mwela Lembwa",
+            "pcode_zs": "CD3103ZS03",
+            "pop_2019": " 101,373 ",
+            "pop_2020 ": " 104,414 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Kahemba",
+            "pcode_terrtoire": "CD3105",
+            "zone_de_sante": "Kahemba",
+            "pcode_zs": "CD3105ZS01",
+            "pop_2019": " 261,120 ",
+            "pop_2020 ": " 268,954 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Kahemba",
+            "pcode_terrtoire": "CD3105",
+            "zone_de_sante": "Kajiji",
+            "pcode_zs": "CD3105ZS02",
+            "pop_2019": " 157,126 ",
+            "pop_2020 ": " 161,840 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Kasongo-Lunda",
+            "pcode_terrtoire": "CD3106",
+            "zone_de_sante": "Kasongo Lunda",
+            "pcode_zs": "CD3106ZS01",
+            "pop_2019": " 174,247 ",
+            "pop_2020 ": " 179,474 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Kasongo-Lunda",
+            "pcode_terrtoire": "CD3106",
+            "zone_de_sante": "Kitenda",
+            "pcode_zs": "CD3106ZS02",
+            "pop_2019": " 157,029 ",
+            "pop_2020 ": " 161,740 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Kasongo-Lunda",
+            "pcode_terrtoire": "CD3106",
+            "zone_de_sante": "Panzi",
+            "pcode_zs": "CD3106ZS03",
+            "pop_2019": " 179,095 ",
+            "pop_2020 ": " 184,468 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Kasongo-Lunda",
+            "pcode_terrtoire": "CD3106",
+            "zone_de_sante": "Tembo",
+            "pcode_zs": "CD3106ZS04",
+            "pop_2019": " 129,882 ",
+            "pop_2020 ": " 133,778 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Kasongo-Lunda",
+            "pcode_terrtoire": "CD3106",
+            "zone_de_sante": "Wamba Lwadi",
+            "pcode_zs": "CD3106ZS05",
+            "pop_2019": " 116,705 ",
+            "pop_2020 ": " 120,206 "
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Popokabaka",
+            "pcode_terrtoire": "CD3108",
+            "zone_de_sante": "Popokabaka",
+            "pcode_zs": "CD3108ZS01",
+            "pop_2019": " 192,033 ",
+            "pop_2020 ": " 197,794 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Bandundu",
+            "pcode_terrtoire": "CD3201",
+            "zone_de_sante": "Bandundu",
+            "pcode_zs": "CD3201ZS01",
+            "pop_2019": " 197,033 ",
+            "pop_2020 ": " 202,944 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Bagata",
+            "pcode_terrtoire": "CD3202",
+            "zone_de_sante": "Bagata",
+            "pcode_zs": "CD3202ZS01",
+            "pop_2019": " 176,098 ",
+            "pop_2020 ": " 181,381 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Bagata",
+            "pcode_terrtoire": "CD3202",
+            "zone_de_sante": "Kikongo",
+            "pcode_zs": "CD3202ZS02",
+            "pop_2019": " 200,270 ",
+            "pop_2020 ": " 206,278 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Bagata",
+            "pcode_terrtoire": "CD3202",
+            "zone_de_sante": "Sia",
+            "pcode_zs": "CD3202ZS03",
+            "pop_2019": " 117,352 ",
+            "pop_2020 ": " 120,873 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Kikwit",
+            "pcode_terrtoire": "CD3203",
+            "zone_de_sante": "Kikwit-Nord",
+            "pcode_zs": "CD3203ZS01",
+            "pop_2019": " 222,254 ",
+            "pop_2020 ": " 228,922 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Kikwit",
+            "pcode_terrtoire": "CD3203",
+            "zone_de_sante": "Kikwit-Sud",
+            "pcode_zs": "CD3203ZS02",
+            "pop_2019": " 269,236 ",
+            "pop_2020 ": " 277,313 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Bulungu",
+            "pcode_terrtoire": "CD3204",
+            "zone_de_sante": "Bulungu",
+            "pcode_zs": "CD3204ZS01",
+            "pop_2019": " 282,945 ",
+            "pop_2020 ": " 291,433 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Bulungu",
+            "pcode_terrtoire": "CD3204",
+            "zone_de_sante": "Djuma",
+            "pcode_zs": "CD3204ZS02",
+            "pop_2019": " 219,282 ",
+            "pop_2020 ": " 225,860 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Bulungu",
+            "pcode_terrtoire": "CD3204",
+            "zone_de_sante": "Lusanga",
+            "pcode_zs": "CD3204ZS03",
+            "pop_2019": " 298,018 ",
+            "pop_2020 ": " 306,959 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Bulungu",
+            "pcode_terrtoire": "CD3204",
+            "zone_de_sante": "Pay Kongila",
+            "pcode_zs": "CD3204ZS04",
+            "pop_2019": " 242,762 ",
+            "pop_2020 ": " 250,045 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Bulungu",
+            "pcode_terrtoire": "CD3204",
+            "zone_de_sante": "Vanga",
+            "pcode_zs": "CD3204ZS05",
+            "pop_2019": " 160,090 ",
+            "pop_2020 ": " 164,893 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Idiofa",
+            "pcode_terrtoire": "CD3206",
+            "zone_de_sante": "Idiofa",
+            "pcode_zs": "CD3206ZS01",
+            "pop_2019": " 291,236 ",
+            "pop_2020 ": " 299,973 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Idiofa",
+            "pcode_terrtoire": "CD3206",
+            "zone_de_sante": "Ipamu",
+            "pcode_zs": "CD3206ZS02",
+            "pop_2019": " 203,609 ",
+            "pop_2020 ": " 209,717 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Idiofa",
+            "pcode_terrtoire": "CD3206",
+            "zone_de_sante": "Kimputu",
+            "pcode_zs": "CD3206ZS03",
+            "pop_2019": " 202,198 ",
+            "pop_2020 ": " 208,264 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Idiofa",
+            "pcode_terrtoire": "CD3206",
+            "zone_de_sante": "Koshibanda",
+            "pcode_zs": "CD3206ZS04",
+            "pop_2019": " 189,770 ",
+            "pop_2020 ": " 195,463 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Idiofa",
+            "pcode_terrtoire": "CD3206",
+            "zone_de_sante": "Mokala",
+            "pcode_zs": "CD3206ZS05",
+            "pop_2019": " 222,501 ",
+            "pop_2020 ": " 229,176 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Idiofa",
+            "pcode_terrtoire": "CD3206",
+            "zone_de_sante": "Mungindu",
+            "pcode_zs": "CD3206ZS06",
+            "pop_2019": " 126,509 ",
+            "pop_2020 ": " 130,304 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Gungu",
+            "pcode_terrtoire": "CD3210",
+            "zone_de_sante": "Gungu",
+            "pcode_zs": "CD3210ZS01",
+            "pop_2019": " 242,187 ",
+            "pop_2020 ": " 249,453 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Gungu",
+            "pcode_terrtoire": "CD3210",
+            "zone_de_sante": "Kingandu",
+            "pcode_zs": "CD3210ZS02",
+            "pop_2019": " 108,325 ",
+            "pop_2020 ": " 111,575 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Gungu",
+            "pcode_terrtoire": "CD3210",
+            "zone_de_sante": "Mukedi",
+            "pcode_zs": "CD3210ZS03",
+            "pop_2019": " 180,455 ",
+            "pop_2020 ": " 185,869 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Masi-Manimba",
+            "pcode_terrtoire": "CD3212",
+            "zone_de_sante": "Masi-Manimba",
+            "pcode_zs": "CD3212ZS01",
+            "pop_2019": " 173,002 ",
+            "pop_2020 ": " 178,192 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Masi-Manimba",
+            "pcode_terrtoire": "CD3212",
+            "zone_de_sante": "Moanza",
+            "pcode_zs": "CD3212ZS02",
+            "pop_2019": " 199,890 ",
+            "pop_2020 ": " 205,887 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Masi-Manimba",
+            "pcode_terrtoire": "CD3212",
+            "zone_de_sante": "Mosango",
+            "pcode_zs": "CD3212ZS03",
+            "pop_2019": " 125,076 ",
+            "pop_2020 ": " 128,828 "
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Masi-Manimba",
+            "pcode_terrtoire": "CD3212",
+            "zone_de_sante": "Yasa-Bonga",
+            "pcode_zs": "CD3212ZS04",
+            "pop_2019": " 221,916 ",
+            "pop_2020 ": " 228,573 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Inongo",
+            "pcode_terrtoire": "CD3302",
+            "zone_de_sante": "Banjow Moke",
+            "pcode_zs": "CD3302ZS01",
+            "pop_2019": " 123,128 ",
+            "pop_2020 ": " 126,822 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Inongo",
+            "pcode_terrtoire": "CD3302",
+            "zone_de_sante": "Inongo",
+            "pcode_zs": "CD3302ZS02",
+            "pop_2019": " 183,709 ",
+            "pop_2020 ": " 189,220 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Inongo",
+            "pcode_terrtoire": "CD3302",
+            "zone_de_sante": "Ntandembelo",
+            "pcode_zs": "CD3302ZS03",
+            "pop_2019": " 89,333 ",
+            "pop_2020 ": " 92,013 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Kiri",
+            "pcode_terrtoire": "CD3303",
+            "zone_de_sante": "Kiri",
+            "pcode_zs": "CD3303ZS01",
+            "pop_2019": " 117,739 ",
+            "pop_2020 ": " 121,271 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Kiri",
+            "pcode_terrtoire": "CD3303",
+            "zone_de_sante": "Penjwa",
+            "pcode_zs": "CD3303ZS02",
+            "pop_2019": " 79,932 ",
+            "pop_2020 ": " 82,330 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Oshwe",
+            "pcode_terrtoire": "CD3304",
+            "zone_de_sante": "Bosobe",
+            "pcode_zs": "CD3304ZS01",
+            "pop_2019": " 134,608 ",
+            "pop_2020 ": " 138,646 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Oshwe",
+            "pcode_terrtoire": "CD3304",
+            "zone_de_sante": "Mimia",
+            "pcode_zs": "CD3304ZS02",
+            "pop_2019": " 58,496 ",
+            "pop_2020 ": " 60,251 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Oshwe",
+            "pcode_terrtoire": "CD3304",
+            "zone_de_sante": "Oshwe",
+            "pcode_zs": "CD3304ZS03",
+            "pop_2019": " 155,733 ",
+            "pop_2020 ": " 160,405 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Kutu",
+            "pcode_terrtoire": "CD3306",
+            "zone_de_sante": "Bokoro",
+            "pcode_zs": "CD3306ZS01",
+            "pop_2019": " 231,538 ",
+            "pop_2020 ": " 238,484 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Kutu",
+            "pcode_terrtoire": "CD3306",
+            "zone_de_sante": "Nioki",
+            "pcode_zs": "CD3306ZS02",
+            "pop_2019": " 164,333 ",
+            "pop_2020 ": " 169,263 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Kwamouth",
+            "pcode_terrtoire": "CD3307",
+            "zone_de_sante": "Kwamouth",
+            "pcode_zs": "CD3307ZS01",
+            "pop_2019": " 131,022 ",
+            "pop_2020 ": " 134,953 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Bolobo",
+            "pcode_terrtoire": "CD3308",
+            "zone_de_sante": "Bolobo",
+            "pcode_zs": "CD3308ZS01",
+            "pop_2019": " 145,453 ",
+            "pop_2020 ": " 149,817 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Yumbi",
+            "pcode_terrtoire": "CD3310",
+            "zone_de_sante": "Yumbi",
+            "pcode_zs": "CD3310ZS01",
+            "pop_2019": " 125,524 ",
+            "pop_2020 ": " 129,290 "
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Mushie",
+            "pcode_terrtoire": "CD3311",
+            "zone_de_sante": "Mushie",
+            "pcode_zs": "CD3311ZS01",
+            "pop_2019": " 129,462 ",
+            "pop_2020 ": " 133,346 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Mbandaka",
+            "pcode_terrtoire": "CD4101",
+            "zone_de_sante": "Bolenge",
+            "pcode_zs": "CD4101ZS01",
+            "pop_2019": " 89,383 ",
+            "pop_2020 ": " 91,975 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Mbandaka",
+            "pcode_terrtoire": "CD4101",
+            "zone_de_sante": "Mbandaka",
+            "pcode_zs": "CD4101ZS02",
+            "pop_2019": " 151,338 ",
+            "pop_2020 ": " 155,727 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Mbandaka",
+            "pcode_terrtoire": "CD4101",
+            "zone_de_sante": "Wangata",
+            "pcode_zs": "CD4101ZS03",
+            "pop_2019": " 156,038 ",
+            "pop_2020 ": " 160,563 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Bikoro",
+            "pcode_terrtoire": "CD4102",
+            "zone_de_sante": "Bikoro",
+            "pcode_zs": "CD4102ZS01",
+            "pop_2019": " 160,413 ",
+            "pop_2020 ": " 165,065 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Bikoro",
+            "pcode_terrtoire": "CD4102",
+            "zone_de_sante": "Iboko",
+            "pcode_zs": "CD4102ZS02",
+            "pop_2019": " 107,614 ",
+            "pop_2020 ": " 110,735 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Bikoro",
+            "pcode_terrtoire": "CD4102",
+            "zone_de_sante": "Ntondo",
+            "pcode_zs": "CD4102ZS03",
+            "pop_2019": " 68,545 ",
+            "pop_2020 ": " 70,533 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Lukolela",
+            "pcode_terrtoire": "CD4103",
+            "zone_de_sante": "Irebu",
+            "pcode_zs": "CD4103ZS01",
+            "pop_2019": " 37,889 ",
+            "pop_2020 ": " 38,988 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Lukolela",
+            "pcode_terrtoire": "CD4103",
+            "zone_de_sante": "Lukolela",
+            "pcode_zs": "CD4103ZS02",
+            "pop_2019": " 149,416 ",
+            "pop_2020 ": " 153,749 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Bomongo",
+            "pcode_terrtoire": "CD4104",
+            "zone_de_sante": "Bomongo",
+            "pcode_zs": "CD4104ZS01",
+            "pop_2019": " 114,907 ",
+            "pop_2020 ": " 118,239 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Bomongo",
+            "pcode_terrtoire": "CD4104",
+            "zone_de_sante": "Lilanga Bobangi",
+            "pcode_zs": "CD4104ZS02",
+            "pop_2019": " 86,227 ",
+            "pop_2020 ": " 88,728 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Makanza",
+            "pcode_terrtoire": "CD4105",
+            "zone_de_sante": "Makanza",
+            "pcode_zs": "CD4105ZS01",
+            "pop_2019": " 127,924 ",
+            "pop_2020 ": " 131,634 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Basankusu",
+            "pcode_terrtoire": "CD4107",
+            "zone_de_sante": "Basankusu",
+            "pcode_zs": "CD4107ZS01",
+            "pop_2019": " 269,006 ",
+            "pop_2020 ": " 276,807 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Basankusu",
+            "pcode_terrtoire": "CD4107",
+            "zone_de_sante": "Djombo",
+            "pcode_zs": "CD4107ZS02",
+            "pop_2019": " 120,484 ",
+            "pop_2020 ": " 123,978 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Bolomba",
+            "pcode_terrtoire": "CD4108",
+            "zone_de_sante": "Bolomba",
+            "pcode_zs": "CD4108ZS01",
+            "pop_2019": " 288,387 ",
+            "pop_2020 ": " 296,750 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Bolomba",
+            "pcode_terrtoire": "CD4108",
+            "zone_de_sante": "Lolanga Mampoko",
+            "pcode_zs": "CD4108ZS02",
+            "pop_2019": " 96,406 ",
+            "pop_2020 ": " 99,202 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Bolomba",
+            "pcode_terrtoire": "CD4108",
+            "zone_de_sante": "Monieka",
+            "pcode_zs": "CD4108ZS03",
+            "pop_2019": " 84,963 ",
+            "pop_2020 ": " 87,427 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Ingende",
+            "pcode_terrtoire": "CD4109",
+            "zone_de_sante": "Ingende",
+            "pcode_zs": "CD4109ZS01",
+            "pop_2019": " 158,618 ",
+            "pop_2020 ": " 163,218 "
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Ingende",
+            "pcode_terrtoire": "CD4109",
+            "zone_de_sante": "Lotumbe",
+            "pcode_zs": "CD4109ZS02",
+            "pop_2019": " 112,548 ",
+            "pop_2020 ": " 115,812 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Gemena",
+            "pcode_terrtoire": "CD4202",
+            "zone_de_sante": "Bogosenubia",
+            "pcode_zs": "CD4202ZS01",
+            "pop_2019": " 151,800 ",
+            "pop_2020 ": " 156,202 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Gemena",
+            "pcode_terrtoire": "CD4202",
+            "zone_de_sante": "Bominenge",
+            "pcode_zs": "CD4202ZS02",
+            "pop_2019": " 165,892 ",
+            "pop_2020 ": " 170,703 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Gemena",
+            "pcode_terrtoire": "CD4202",
+            "zone_de_sante": "Bwamanda",
+            "pcode_zs": "CD4202ZS03",
+            "pop_2019": " 241,934 ",
+            "pop_2020 ": " 248,950 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Gemena",
+            "pcode_terrtoire": "CD4202",
+            "zone_de_sante": "Gemena",
+            "pcode_zs": "CD4202ZS04",
+            "pop_2019": " 356,400 ",
+            "pop_2020 ": " 366,736 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Gemena",
+            "pcode_terrtoire": "CD4202",
+            "zone_de_sante": "Tandala",
+            "pcode_zs": "CD4202ZS05",
+            "pop_2019": " 290,842 ",
+            "pop_2020 ": " 299,276 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Budjala",
+            "pcode_terrtoire": "CD4203",
+            "zone_de_sante": "Bangabola",
+            "pcode_zs": "CD4203ZS01",
+            "pop_2019": " 144,801 ",
+            "pop_2020 ": " 149,000 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Budjala",
+            "pcode_terrtoire": "CD4203",
+            "zone_de_sante": "Budjala",
+            "pcode_zs": "CD4203ZS02",
+            "pop_2019": " 137,028 ",
+            "pop_2020 ": " 141,002 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Budjala",
+            "pcode_terrtoire": "CD4203",
+            "zone_de_sante": "Bulu",
+            "pcode_zs": "CD4203ZS03",
+            "pop_2019": " 138,241 ",
+            "pop_2020 ": " 142,250 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Budjala",
+            "pcode_terrtoire": "CD4203",
+            "zone_de_sante": "Mbaya",
+            "pcode_zs": "CD4203ZS04",
+            "pop_2019": " 70,300 ",
+            "pop_2020 ": " 72,339 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Budjala",
+            "pcode_terrtoire": "CD4203",
+            "zone_de_sante": "Ndage",
+            "pcode_zs": "CD4203ZS05",
+            "pop_2019": " 134,280 ",
+            "pop_2020 ": " 138,174 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Kungu",
+            "pcode_terrtoire": "CD4204",
+            "zone_de_sante": "Bokonzi",
+            "pcode_zs": "CD4204ZS01",
+            "pop_2019": " 228,473 ",
+            "pop_2020 ": " 235,099 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Kungu",
+            "pcode_terrtoire": "CD4204",
+            "zone_de_sante": "Boto",
+            "pcode_zs": "CD4204ZS02",
+            "pop_2019": " 19,161 ",
+            "pop_2020 ": " 19,717 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Kungu",
+            "pcode_terrtoire": "CD4204",
+            "zone_de_sante": "Kungu",
+            "pcode_zs": "CD4204ZS03",
+            "pop_2019": " 227,002 ",
+            "pop_2020 ": " 233,585 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Libenge",
+            "pcode_terrtoire": "CD4205",
+            "zone_de_sante": "Libenge",
+            "pcode_zs": "CD4205ZS01",
+            "pop_2019": " 241,934 ",
+            "pop_2020 ": " 248,950 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Libenge",
+            "pcode_terrtoire": "CD4205",
+            "zone_de_sante": "Mawuya",
+            "pcode_zs": "CD4205ZS02",
+            "pop_2019": " 163,833 ",
+            "pop_2020 ": " 168,584 "
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Zongo",
+            "pcode_terrtoire": "CD4206",
+            "zone_de_sante": "Zongo",
+            "pcode_zs": "CD4206ZS01",
+            "pop_2019": " 79,581 ",
+            "pop_2020 ": " 81,889 "
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD43",
+            "territoire": "Gbadolite",
+            "pcode_terrtoire": "CD4301",
+            "zone_de_sante": "Gbadolite",
+            "pcode_zs": "CD4301ZS01",
+            "pop_2019": " 154,524 ",
+            "pop_2020 ": " 159,005 "
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD43",
+            "territoire": "Mobayi-Mbongo",
+            "pcode_terrtoire": "CD4302",
+            "zone_de_sante": "Mobayi Mbongo",
+            "pcode_zs": "CD4302ZS01",
+            "pop_2019": " 119,763 ",
+            "pop_2020 ": " 123,236 "
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD43",
+            "territoire": "Yakoma",
+            "pcode_terrtoire": "CD4304",
+            "zone_de_sante": "Abuzi",
+            "pcode_zs": "CD4304ZS01",
+            "pop_2019": " 81,194 ",
+            "pop_2020 ": " 83,549 "
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD43",
+            "territoire": "Yakoma",
+            "pcode_terrtoire": "CD4304",
+            "zone_de_sante": "Wapinda",
+            "pcode_zs": "CD4304ZS02",
+            "pop_2019": " 83,877 ",
+            "pop_2020 ": " 86,309 "
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD43",
+            "territoire": "Yakoma",
+            "pcode_terrtoire": "CD4304",
+            "zone_de_sante": "Wasolo",
+            "pcode_zs": "CD4304ZS03",
+            "pop_2019": " 78,263 ",
+            "pop_2020 ": " 80,533 "
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD43",
+            "territoire": "Yakoma",
+            "pcode_terrtoire": "CD4304",
+            "zone_de_sante": "Yakoma",
+            "pcode_zs": "CD4304ZS04",
+            "pop_2019": " 108,155 ",
+            "pop_2020 ": " 111,291 "
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD43",
+            "territoire": "Businga",
+            "pcode_terrtoire": "CD4305",
+            "zone_de_sante": "Businga",
+            "pcode_zs": "CD4305ZS01",
+            "pop_2019": " 136,439 ",
+            "pop_2020 ": " 140,396 "
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD43",
+            "territoire": "Businga",
+            "pcode_terrtoire": "CD4305",
+            "zone_de_sante": "Karawa",
+            "pcode_zs": "CD4305ZS02",
+            "pop_2019": " 267,829 ",
+            "pop_2020 ": " 275,596 "
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD43",
+            "territoire": "Businga",
+            "pcode_terrtoire": "CD4305",
+            "zone_de_sante": "Loko",
+            "pcode_zs": "CD4305ZS03",
+            "pop_2019": " 134,459 ",
+            "pop_2020 ": " 138,358 "
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD43",
+            "territoire": "Bosobolo",
+            "pcode_terrtoire": "CD4306",
+            "zone_de_sante": "Bili",
+            "pcode_zs": "CD4306ZS01",
+            "pop_2019": " 197,243 ",
+            "pop_2020 ": " 202,963 "
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD43",
+            "territoire": "Bosobolo",
+            "pcode_terrtoire": "CD4306",
+            "zone_de_sante": "Bosobolo",
+            "pcode_zs": "CD4306ZS02",
+            "pop_2019": " 175,836 ",
+            "pop_2020 ": " 180,935 "
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD44",
+            "territoire": "Lisala",
+            "pcode_terrtoire": "CD4402",
+            "zone_de_sante": "Binga",
+            "pcode_zs": "CD4402ZS01",
+            "pop_2019": " 283,671 ",
+            "pop_2020 ": " 291,897 "
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD44",
+            "territoire": "Lisala",
+            "pcode_terrtoire": "CD4402",
+            "zone_de_sante": "Boso Manzi",
+            "pcode_zs": "CD4402ZS02",
+            "pop_2019": " 127,699 ",
+            "pop_2020 ": " 131,402 "
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD44",
+            "territoire": "Lisala",
+            "pcode_terrtoire": "CD4402",
+            "zone_de_sante": "Lisala",
+            "pcode_zs": "CD4402ZS03",
+            "pop_2019": " 281,003 ",
+            "pop_2020 ": " 289,152 "
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD44",
+            "territoire": "Bumba",
+            "pcode_terrtoire": "CD4404",
+            "zone_de_sante": "Bumba",
+            "pcode_zs": "CD4404ZS01",
+            "pop_2019": " 224,279 ",
+            "pop_2020 ": " 230,783 "
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD44",
+            "territoire": "Bumba",
+            "pcode_terrtoire": "CD4404",
+            "zone_de_sante": "Lolo",
+            "pcode_zs": "CD4404ZS02",
+            "pop_2019": " 155,926 ",
+            "pop_2020 ": " 160,448 "
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD44",
+            "territoire": "Bumba",
+            "pcode_terrtoire": "CD4404",
+            "zone_de_sante": "Yamaluka",
+            "pcode_zs": "CD4404ZS03",
+            "pop_2019": " 148,540 ",
+            "pop_2020 ": " 152,848 "
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD44",
+            "territoire": "Bumba",
+            "pcode_terrtoire": "CD4404",
+            "zone_de_sante": "Yambuku",
+            "pcode_zs": "CD4404ZS04",
+            "pop_2019": " 305,295 ",
+            "pop_2020 ": " 314,149 "
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD44",
+            "territoire": "Bumba",
+            "pcode_terrtoire": "CD4404",
+            "zone_de_sante": "Yamongili",
+            "pcode_zs": "CD4404ZS05",
+            "pop_2019": " 141,860 ",
+            "pop_2020 ": " 145,974 "
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD44",
+            "territoire": "Bongandanga",
+            "pcode_terrtoire": "CD4405",
+            "zone_de_sante": "Bongandanga",
+            "pcode_zs": "CD4405ZS01",
+            "pop_2019": " 148,634 ",
+            "pop_2020 ": " 152,944 "
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD44",
+            "territoire": "Bongandanga",
+            "pcode_terrtoire": "CD4405",
+            "zone_de_sante": "Boso Mondanda",
+            "pcode_zs": "CD4405ZS02",
+            "pop_2019": " 156,643 ",
+            "pop_2020 ": " 161,186 "
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD44",
+            "territoire": "Bongandanga",
+            "pcode_terrtoire": "CD4405",
+            "zone_de_sante": "Bosondjo",
+            "pcode_zs": "CD4405ZS03",
+            "pop_2019": " 217,210 ",
+            "pop_2020 ": " 223,509 "
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD44",
+            "territoire": "Bongandanga",
+            "pcode_terrtoire": "CD4405",
+            "zone_de_sante": "Pimu",
+            "pcode_zs": "CD4405ZS04",
+            "pop_2019": " 260,197 ",
+            "pop_2020 ": " 267,743 "
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD45",
+            "territoire": "Boende",
+            "pcode_terrtoire": "CD4502",
+            "zone_de_sante": "Boende",
+            "pcode_zs": "CD4502ZS01",
+            "pop_2019": " 271,905 ",
+            "pop_2020 ": " 279,790 "
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD45",
+            "territoire": "Boende",
+            "pcode_terrtoire": "CD4502",
+            "zone_de_sante": "Wema",
+            "pcode_zs": "CD4502ZS02",
+            "pop_2019": " 9,538 ",
+            "pop_2020 ": " 9,815 "
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD45",
+            "territoire": "Befale",
+            "pcode_terrtoire": "CD4503",
+            "zone_de_sante": "Befale",
+            "pcode_zs": "CD4503ZS01",
+            "pop_2019": " 177,347 ",
+            "pop_2020 ": " 182,490 "
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD45",
+            "territoire": "Befale",
+            "pcode_terrtoire": "CD4503",
+            "zone_de_sante": "Mompono",
+            "pcode_zs": "CD4503ZS02",
+            "pop_2019": " 142,540 ",
+            "pop_2020 ": " 146,674 "
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD45",
+            "territoire": "Djolu",
+            "pcode_terrtoire": "CD4504",
+            "zone_de_sante": "Djolu",
+            "pcode_zs": "CD4504ZS01",
+            "pop_2019": " 235,186 ",
+            "pop_2020 ": " 242,006 "
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD45",
+            "territoire": "Djolu",
+            "pcode_terrtoire": "CD4504",
+            "zone_de_sante": "Lingomo",
+            "pcode_zs": "CD4504ZS02",
+            "pop_2019": " 135,223 ",
+            "pop_2020 ": " 139,144 "
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD45",
+            "territoire": "Ikela",
+            "pcode_terrtoire": "CD4505",
+            "zone_de_sante": "Ikela",
+            "pcode_zs": "CD4505ZS01",
+            "pop_2019": " 169,826 ",
+            "pop_2020 ": " 174,751 "
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD45",
+            "territoire": "Ikela",
+            "pcode_terrtoire": "CD4505",
+            "zone_de_sante": "Mondombe",
+            "pcode_zs": "CD4505ZS02",
+            "pop_2019": " 173,125 ",
+            "pop_2020 ": " 178,146 "
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD45",
+            "territoire": "Bokungu",
+            "pcode_terrtoire": "CD4506",
+            "zone_de_sante": "Bokungu",
+            "pcode_zs": "CD4506ZS01",
+            "pop_2019": " 201,071 ",
+            "pop_2020 ": " 206,902 "
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD45",
+            "territoire": "Bokungu",
+            "pcode_terrtoire": "CD4506",
+            "zone_de_sante": "Bosanga",
+            "pcode_zs": "CD4506ZS02",
+            "pop_2019": " 235,186 ",
+            "pop_2020 ": " 242,006 "
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD45",
+            "territoire": "Bokungu",
+            "pcode_terrtoire": "CD4506",
+            "zone_de_sante": "Yalifafo",
+            "pcode_zs": "CD4506ZS03",
+            "pop_2019": " 174,463 ",
+            "pop_2020 ": " 179,522 "
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD45",
+            "territoire": "Monkoto",
+            "pcode_terrtoire": "CD4507",
+            "zone_de_sante": "Monkoto",
+            "pcode_zs": "CD4507ZS01",
+            "pop_2019": " 134,739 ",
+            "pop_2020 ": " 138,646 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Kisangani",
+            "pcode_terrtoire": "CD5101",
+            "zone_de_sante": "Kabondo",
+            "pcode_zs": "CD5101ZS01",
+            "pop_2019": " 170,933 ",
+            "pop_2020 ": " 175,035 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Kisangani",
+            "pcode_terrtoire": "CD5101",
+            "zone_de_sante": "Lubunga",
+            "pcode_zs": "CD5101ZS02",
+            "pop_2019": " 155,431 ",
+            "pop_2020 ": " 159,161 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Kisangani",
+            "pcode_terrtoire": "CD5101",
+            "zone_de_sante": "Makiso-Kisangani",
+            "pcode_zs": "CD5101ZS03",
+            "pop_2019": " 204,232 ",
+            "pop_2020 ": " 209,134 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Kisangani",
+            "pcode_terrtoire": "CD5101",
+            "zone_de_sante": "Mangobo",
+            "pcode_zs": "CD5101ZS04",
+            "pop_2019": " 202,493 ",
+            "pop_2020 ": " 207,353 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Kisangani",
+            "pcode_terrtoire": "CD5101",
+            "zone_de_sante": "Tshopo",
+            "pcode_zs": "CD5101ZS05",
+            "pop_2019": " 139,579 ",
+            "pop_2020 ": " 142,929 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Ubundu",
+            "pcode_terrtoire": "CD5102",
+            "zone_de_sante": "Lowa",
+            "pcode_zs": "CD5102ZS01",
+            "pop_2019": " 133,808 ",
+            "pop_2020 ": " 137,019 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Ubundu",
+            "pcode_terrtoire": "CD5102",
+            "zone_de_sante": "Ubundu",
+            "pcode_zs": "CD5102ZS02",
+            "pop_2019": " 102,526 ",
+            "pop_2020 ": " 104,987 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Ubundu",
+            "pcode_terrtoire": "CD5102",
+            "zone_de_sante": "Wanierukula",
+            "pcode_zs": "CD5102ZS03",
+            "pop_2019": " 87,579 ",
+            "pop_2020 ": " 89,681 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Opala",
+            "pcode_terrtoire": "CD5103",
+            "zone_de_sante": "Opala",
+            "pcode_zs": "CD5103ZS01",
+            "pop_2019": " 129,544 ",
+            "pop_2020 ": " 132,653 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Opala",
+            "pcode_terrtoire": "CD5103",
+            "zone_de_sante": "Yaleko",
+            "pcode_zs": "CD5103ZS02",
+            "pop_2019": " 144,036 ",
+            "pop_2020 ": " 147,493 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Isangi",
+            "pcode_terrtoire": "CD5105",
+            "zone_de_sante": "Isangi",
+            "pcode_zs": "CD5105ZS01",
+            "pop_2019": " 163,431 ",
+            "pop_2020 ": " 167,353 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Isangi",
+            "pcode_terrtoire": "CD5105",
+            "zone_de_sante": "Yabaondo",
+            "pcode_zs": "CD5105ZS02",
+            "pop_2019": " 171,537 ",
+            "pop_2020 ": " 175,654 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Isangi",
+            "pcode_terrtoire": "CD5105",
+            "zone_de_sante": "Yahisuli",
+            "pcode_zs": "CD5105ZS03",
+            "pop_2019": " 87,577 ",
+            "pop_2020 ": " 89,679 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Isangi",
+            "pcode_terrtoire": "CD5105",
+            "zone_de_sante": "Yakusu",
+            "pcode_zs": "CD5105ZS04",
+            "pop_2019": " 163,111 ",
+            "pop_2020 ": " 167,026 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Yahuma",
+            "pcode_terrtoire": "CD5107",
+            "zone_de_sante": "Yahuma",
+            "pcode_zs": "CD5107ZS01",
+            "pop_2019": " 189,417 ",
+            "pop_2020 ": " 193,963 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Basoko",
+            "pcode_terrtoire": "CD5109",
+            "zone_de_sante": "Basali",
+            "pcode_zs": "CD5109ZS01",
+            "pop_2019": " 88,327 ",
+            "pop_2020 ": " 90,447 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Basoko",
+            "pcode_terrtoire": "CD5109",
+            "zone_de_sante": "Basoko",
+            "pcode_zs": "CD5109ZS02",
+            "pop_2019": " 163,090 ",
+            "pop_2020 ": " 167,004 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Basoko",
+            "pcode_terrtoire": "CD5109",
+            "zone_de_sante": "Yalimbongo",
+            "pcode_zs": "CD5109ZS03",
+            "pop_2019": " 103,298 ",
+            "pop_2020 ": " 105,777 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Banalia",
+            "pcode_terrtoire": "CD5110",
+            "zone_de_sante": "Banalia",
+            "pcode_zs": "CD5110ZS01",
+            "pop_2019": " 146,328 ",
+            "pop_2020 ": " 149,840 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Banalia",
+            "pcode_terrtoire": "CD5110",
+            "zone_de_sante": "Bengamisa",
+            "pcode_zs": "CD5110ZS02",
+            "pop_2019": " 120,479 ",
+            "pop_2020 ": " 123,370 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Bafwasende",
+            "pcode_terrtoire": "CD5111",
+            "zone_de_sante": "Bafwagbogbo",
+            "pcode_zs": "CD5111ZS01",
+            "pop_2019": " 72,245 ",
+            "pop_2020 ": " 73,979 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Bafwasende",
+            "pcode_terrtoire": "CD5111",
+            "zone_de_sante": "Bafwasende",
+            "pcode_zs": "CD5111ZS02",
+            "pop_2019": " 82,796 ",
+            "pop_2020 ": " 84,783 "
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Bafwasende",
+            "pcode_terrtoire": "CD5111",
+            "zone_de_sante": "Opienge",
+            "pcode_zs": "CD5111ZS03",
+            "pop_2019": " 63,321 ",
+            "pop_2020 ": " 64,841 "
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD52",
+            "territoire": "Buta",
+            "pcode_terrtoire": "CD5202",
+            "zone_de_sante": "Buta",
+            "pcode_zs": "CD5202ZS01",
+            "pop_2019": " 194,369 ",
+            "pop_2020 ": " 199,034 "
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD52",
+            "territoire": "Buta",
+            "pcode_terrtoire": "CD5202",
+            "zone_de_sante": "Titule",
+            "pcode_zs": "CD5202ZS02",
+            "pop_2019": " 81,216 ",
+            "pop_2020 ": " 83,165 "
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD52",
+            "territoire": "Aketi",
+            "pcode_terrtoire": "CD5204",
+            "zone_de_sante": "Aketi",
+            "pcode_zs": "CD5204ZS01",
+            "pop_2019": " 142,658 ",
+            "pop_2020 ": " 146,082 "
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD52",
+            "territoire": "Aketi",
+            "pcode_terrtoire": "CD5204",
+            "zone_de_sante": "Likati",
+            "pcode_zs": "CD5204ZS02",
+            "pop_2019": " 73,871 ",
+            "pop_2020 ": " 75,644 "
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD52",
+            "territoire": "Bondo",
+            "pcode_terrtoire": "CD5206",
+            "zone_de_sante": "Bili",
+            "pcode_zs": "CD5206ZS01",
+            "pop_2019": " 67,763 ",
+            "pop_2020 ": " 69,389 "
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD52",
+            "territoire": "Bondo",
+            "pcode_terrtoire": "CD5206",
+            "zone_de_sante": "Bondo",
+            "pcode_zs": "CD5206ZS02",
+            "pop_2019": " 114,236 ",
+            "pop_2020 ": " 116,978 "
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD52",
+            "territoire": "Bondo",
+            "pcode_terrtoire": "CD5206",
+            "zone_de_sante": "Monga",
+            "pcode_zs": "CD5206ZS03",
+            "pop_2019": " 83,196 ",
+            "pop_2020 ": " 85,193 "
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD52",
+            "territoire": "Ango",
+            "pcode_terrtoire": "CD5207",
+            "zone_de_sante": "Ango",
+            "pcode_zs": "CD5207ZS01",
+            "pop_2019": " 109,194 ",
+            "pop_2020 ": " 111,815 "
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD52",
+            "territoire": "Poko",
+            "pcode_terrtoire": "CD5208",
+            "zone_de_sante": "Poko",
+            "pcode_zs": "CD5208ZS01",
+            "pop_2019": " 126,609 ",
+            "pop_2020 ": " 129,648 "
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD52",
+            "territoire": "Poko",
+            "pcode_terrtoire": "CD5208",
+            "zone_de_sante": "Viadana",
+            "pcode_zs": "CD5208ZS02",
+            "pop_2019": " 109,895 ",
+            "pop_2020 ": " 112,532 "
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD52",
+            "territoire": "Bambesa",
+            "pcode_terrtoire": "CD5209",
+            "zone_de_sante": "Ganga",
+            "pcode_zs": "CD5209ZS01",
+            "pop_2019": " 131,197 ",
+            "pop_2020 ": " 134,346 "
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Rungu",
+            "pcode_terrtoire": "CD5302",
+            "zone_de_sante": "Isiro",
+            "pcode_zs": "CD5302ZS01",
+            "pop_2019": " 256,285 ",
+            "pop_2020 ": " 262,436 "
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Rungu",
+            "pcode_terrtoire": "CD5302",
+            "zone_de_sante": "Rungu",
+            "pcode_zs": "CD5302ZS02",
+            "pop_2019": " 107,405 ",
+            "pop_2020 ": " 109,983 "
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Niangara",
+            "pcode_terrtoire": "CD5303",
+            "zone_de_sante": "Niangara",
+            "pcode_zs": "CD5303ZS01",
+            "pop_2019": " 119,098 ",
+            "pop_2020 ": " 121,956 "
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Dungu",
+            "pcode_terrtoire": "CD5305",
+            "zone_de_sante": "Doruma",
+            "pcode_zs": "CD5305ZS01",
+            "pop_2019": " 72,010 ",
+            "pop_2020 ": " 73,738 "
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Dungu",
+            "pcode_terrtoire": "CD5305",
+            "zone_de_sante": "Dungu",
+            "pcode_zs": "CD5305ZS02",
+            "pop_2019": " 130,167 ",
+            "pop_2020 ": " 133,291 "
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Faradje",
+            "pcode_terrtoire": "CD5307",
+            "zone_de_sante": "Aba",
+            "pcode_zs": "CD5307ZS01",
+            "pop_2019": " 133,665 ",
+            "pop_2020 ": " 136,873 "
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Faradje",
+            "pcode_terrtoire": "CD5307",
+            "zone_de_sante": "Faradje",
+            "pcode_zs": "CD5307ZS02",
+            "pop_2019": " 119,602 ",
+            "pop_2020 ": " 122,472 "
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Faradje",
+            "pcode_terrtoire": "CD5307",
+            "zone_de_sante": "Makoro",
+            "pcode_zs": "CD5307ZS03",
+            "pop_2019": " 126,746 ",
+            "pop_2020 ": " 129,788 "
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Watsa",
+            "pcode_terrtoire": "CD5309",
+            "zone_de_sante": "Gombari",
+            "pcode_zs": "CD5309ZS01",
+            "pop_2019": " 116,351 ",
+            "pop_2020 ": " 119,143 "
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Watsa",
+            "pcode_terrtoire": "CD5309",
+            "zone_de_sante": "Watsa",
+            "pcode_zs": "CD5309ZS02",
+            "pop_2019": " 176,561 ",
+            "pop_2020 ": " 180,798 "
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Wamba",
+            "pcode_terrtoire": "CD5311",
+            "zone_de_sante": "Boma-Mangbetu",
+            "pcode_zs": "CD5311ZS01",
+            "pop_2019": " 113,763 ",
+            "pop_2020 ": " 116,493 "
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Wamba",
+            "pcode_terrtoire": "CD5311",
+            "zone_de_sante": "Pawa",
+            "pcode_zs": "CD5311ZS02",
+            "pop_2019": " 175,104 ",
+            "pop_2020 ": " 179,306 "
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Wamba",
+            "pcode_terrtoire": "CD5311",
+            "zone_de_sante": "Wamba",
+            "pcode_zs": "CD5311ZS03",
+            "pop_2019": " 137,399 ",
+            "pop_2020 ": " 140,697 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Irumu",
+            "pcode_terrtoire": "CD5402",
+            "zone_de_sante": "Boga",
+            "pcode_zs": "CD5402ZS01",
+            "pop_2019": " 71,077 ",
+            "pop_2020 ": " 72,783 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Irumu",
+            "pcode_terrtoire": "CD5402",
+            "zone_de_sante": "Bunia",
+            "pcode_zs": "CD5402ZS02",
+            "pop_2019": " 281,153 ",
+            "pop_2020 ": " 287,901 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Irumu",
+            "pcode_terrtoire": "CD5402",
+            "zone_de_sante": "Gethy",
+            "pcode_zs": "CD5402ZS03",
+            "pop_2019": " 195,602 ",
+            "pop_2020 ": " 200,296 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Irumu",
+            "pcode_terrtoire": "CD5402",
+            "zone_de_sante": "Komanda",
+            "pcode_zs": "CD5402ZS04",
+            "pop_2019": " 193,793 ",
+            "pop_2020 ": " 198,444 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Irumu",
+            "pcode_terrtoire": "CD5402",
+            "zone_de_sante": "Nyakunde",
+            "pcode_zs": "CD5402ZS05",
+            "pop_2019": " 102,707 ",
+            "pop_2020 ": " 105,172 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Irumu",
+            "pcode_terrtoire": "CD5402",
+            "zone_de_sante": "Rwampara",
+            "pcode_zs": "CD5402ZS06",
+            "pop_2019": " 140,581 ",
+            "pop_2020 ": " 143,955 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Mambasa",
+            "pcode_terrtoire": "CD5403",
+            "zone_de_sante": "Lolwa",
+            "pcode_zs": "CD5403ZS01",
+            "pop_2019": " 48,003 ",
+            "pop_2020 ": " 49,155 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Mambasa",
+            "pcode_terrtoire": "CD5403",
+            "zone_de_sante": "Mambasa",
+            "pcode_zs": "CD5403ZS02",
+            "pop_2019": " 100,565 ",
+            "pop_2020 ": " 102,979 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Mambasa",
+            "pcode_terrtoire": "CD5403",
+            "zone_de_sante": "Mandima",
+            "pcode_zs": "CD5403ZS03",
+            "pop_2019": " 144,909 ",
+            "pop_2020 ": " 148,387 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Mambasa",
+            "pcode_terrtoire": "CD5403",
+            "zone_de_sante": "Nia-Nia",
+            "pcode_zs": "CD5403ZS04",
+            "pop_2019": " 74,827 ",
+            "pop_2020 ": " 76,623 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Djugu",
+            "pcode_terrtoire": "CD5405",
+            "zone_de_sante": "Bambu",
+            "pcode_zs": "CD5405ZS01",
+            "pop_2019": " 155,978 ",
+            "pop_2020 ": " 159,721 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Djugu",
+            "pcode_terrtoire": "CD5405",
+            "zone_de_sante": "Damas",
+            "pcode_zs": "CD5405ZS02",
+            "pop_2019": " 122,401 ",
+            "pop_2020 ": " 125,339 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Djugu",
+            "pcode_terrtoire": "CD5405",
+            "zone_de_sante": "Drodro",
+            "pcode_zs": "CD5405ZS03",
+            "pop_2019": " 162,295 ",
+            "pop_2020 ": " 166,190 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Djugu",
+            "pcode_terrtoire": "CD5405",
+            "zone_de_sante": "Fataki",
+            "pcode_zs": "CD5405ZS04",
+            "pop_2019": " 134,493 ",
+            "pop_2020 ": " 137,721 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Djugu",
+            "pcode_terrtoire": "CD5405",
+            "zone_de_sante": "Jiba",
+            "pcode_zs": "CD5405ZS05",
+            "pop_2019": " 143,703 ",
+            "pop_2020 ": " 147,152 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Djugu",
+            "pcode_terrtoire": "CD5405",
+            "zone_de_sante": "Kilo",
+            "pcode_zs": "CD5405ZS06",
+            "pop_2019": " 58,618 ",
+            "pop_2020 ": " 60,025 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Djugu",
+            "pcode_terrtoire": "CD5405",
+            "zone_de_sante": "Linga",
+            "pcode_zs": "CD5405ZS07",
+            "pop_2019": " 154,656 ",
+            "pop_2020 ": " 158,368 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Djugu",
+            "pcode_terrtoire": "CD5405",
+            "zone_de_sante": "Lita",
+            "pcode_zs": "CD5405ZS08",
+            "pop_2019": " 134,401 ",
+            "pop_2020 ": " 137,627 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Djugu",
+            "pcode_terrtoire": "CD5405",
+            "zone_de_sante": "Mangala",
+            "pcode_zs": "CD5405ZS09",
+            "pop_2019": " 97,163 ",
+            "pop_2020 ": " 99,495 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Djugu",
+            "pcode_terrtoire": "CD5405",
+            "zone_de_sante": "Mongbalu",
+            "pcode_zs": "CD5405ZS10",
+            "pop_2019": " 139,850 ",
+            "pop_2020 ": " 143,206 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Djugu",
+            "pcode_terrtoire": "CD5405",
+            "zone_de_sante": "Nizi",
+            "pcode_zs": "CD5405ZS11",
+            "pop_2019": " 148,532 ",
+            "pop_2020 ": " 152,097 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Djugu",
+            "pcode_terrtoire": "CD5405",
+            "zone_de_sante": "Rethy",
+            "pcode_zs": "CD5405ZS12",
+            "pop_2019": " 210,058 ",
+            "pop_2020 ": " 215,099 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Djugu",
+            "pcode_terrtoire": "CD5405",
+            "zone_de_sante": "Tchomia",
+            "pcode_zs": "CD5405ZS13",
+            "pop_2019": " 115,748 ",
+            "pop_2020 ": " 118,526 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Mahagi",
+            "pcode_terrtoire": "CD5407",
+            "zone_de_sante": "Angumu",
+            "pcode_zs": "CD5407ZS01",
+            "pop_2019": " 172,081 ",
+            "pop_2020 ": " 176,211 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Mahagi",
+            "pcode_terrtoire": "CD5407",
+            "zone_de_sante": "Aungba",
+            "pcode_zs": "CD5407ZS02",
+            "pop_2019": " 165,865 ",
+            "pop_2020 ": " 169,846 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Mahagi",
+            "pcode_terrtoire": "CD5407",
+            "zone_de_sante": "Kambala",
+            "pcode_zs": "CD5407ZS03",
+            "pop_2019": " 129,784 ",
+            "pop_2020 ": " 132,899 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Mahagi",
+            "pcode_terrtoire": "CD5407",
+            "zone_de_sante": "Logo",
+            "pcode_zs": "CD5407ZS04",
+            "pop_2019": " 252,237 ",
+            "pop_2020 ": " 258,291 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Mahagi",
+            "pcode_terrtoire": "CD5407",
+            "zone_de_sante": "Mahagi",
+            "pcode_zs": "CD5407ZS05",
+            "pop_2019": " 183,030 ",
+            "pop_2020 ": " 187,423 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Mahagi",
+            "pcode_terrtoire": "CD5407",
+            "zone_de_sante": "Nyarambe",
+            "pcode_zs": "CD5407ZS06",
+            "pop_2019": " 244,557 ",
+            "pop_2020 ": " 250,426 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Mahagi",
+            "pcode_terrtoire": "CD5407",
+            "zone_de_sante": "Rimba",
+            "pcode_zs": "CD5407ZS07",
+            "pop_2019": " 221,641 ",
+            "pop_2020 ": " 226,960 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Aru",
+            "pcode_terrtoire": "CD5409",
+            "zone_de_sante": "Adi",
+            "pcode_zs": "CD5409ZS01",
+            "pop_2019": " 169,602 ",
+            "pop_2020 ": " 173,672 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Aru",
+            "pcode_terrtoire": "CD5409",
+            "zone_de_sante": "Adja",
+            "pcode_zs": "CD5409ZS02",
+            "pop_2019": " 132,450 ",
+            "pop_2020 ": " 135,629 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Aru",
+            "pcode_terrtoire": "CD5409",
+            "zone_de_sante": "Ariwara",
+            "pcode_zs": "CD5409ZS03",
+            "pop_2019": " 211,050 ",
+            "pop_2020 ": " 216,115 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Aru",
+            "pcode_terrtoire": "CD5409",
+            "zone_de_sante": "Aru",
+            "pcode_zs": "CD5409ZS04",
+            "pop_2019": " 189,907 ",
+            "pop_2020 ": " 194,465 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Aru",
+            "pcode_terrtoire": "CD5409",
+            "zone_de_sante": "Biringi",
+            "pcode_zs": "CD5409ZS05",
+            "pop_2019": " 128,483 ",
+            "pop_2020 ": " 131,567 "
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Aru",
+            "pcode_terrtoire": "CD5409",
+            "zone_de_sante": "Laybo",
+            "pcode_zs": "CD5409ZS06",
+            "pop_2019": " 148,594 ",
+            "pop_2020 ": " 152,160 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Goma",
+            "pcode_terrtoire": "CD6101",
+            "zone_de_sante": "Goma",
+            "pcode_zs": "CD6101ZS01",
+            "pop_2019": " 268,616 ",
+            "pop_2020 ": " 277,480 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Goma",
+            "pcode_terrtoire": "CD6101",
+            "zone_de_sante": "Karisimbi",
+            "pcode_zs": "CD6101ZS02",
+            "pop_2019": " 656,108 ",
+            "pop_2020 ": " 677,760 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Nyiragongo",
+            "pcode_terrtoire": "CD6102",
+            "zone_de_sante": "Nyiragongo",
+            "pcode_zs": "CD6102ZS01",
+            "pop_2019": " 462,362 ",
+            "pop_2020 ": " 477,620 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Masisi",
+            "pcode_terrtoire": "CD6103",
+            "zone_de_sante": "Katoyi",
+            "pcode_zs": "CD6103ZS01",
+            "pop_2019": " 675,273 ",
+            "pop_2020 ": " 697,557 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Masisi",
+            "pcode_terrtoire": "CD6103",
+            "zone_de_sante": "Kirotshe",
+            "pcode_zs": "CD6103ZS02",
+            "pop_2019": " 467,876 ",
+            "pop_2020 ": " 483,316 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Masisi",
+            "pcode_terrtoire": "CD6103",
+            "zone_de_sante": "Masisi",
+            "pcode_zs": "CD6103ZS03",
+            "pop_2019": " 437,270 ",
+            "pop_2020 ": " 451,700 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Masisi",
+            "pcode_terrtoire": "CD6103",
+            "zone_de_sante": "Mweso",
+            "pcode_zs": "CD6103ZS04",
+            "pop_2019": " 417,978 ",
+            "pop_2020 ": " 431,771 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Walikale",
+            "pcode_terrtoire": "CD6104",
+            "zone_de_sante": "Itebero",
+            "pcode_zs": "CD6104ZS01",
+            "pop_2019": " 189,982 ",
+            "pop_2020 ": " 196,251 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Walikale",
+            "pcode_terrtoire": "CD6104",
+            "zone_de_sante": "Kibua",
+            "pcode_zs": "CD6104ZS02",
+            "pop_2019": " 108,380 ",
+            "pop_2020 ": " 111,957 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Walikale",
+            "pcode_terrtoire": "CD6104",
+            "zone_de_sante": "Pinga",
+            "pcode_zs": "CD6104ZS03",
+            "pop_2019": " 161,232 ",
+            "pop_2020 ": " 166,553 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Walikale",
+            "pcode_terrtoire": "CD6104",
+            "zone_de_sante": "Walikale",
+            "pcode_zs": "CD6104ZS04",
+            "pop_2019": " 167,886 ",
+            "pop_2020 ": " 173,426 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Lubero",
+            "pcode_terrtoire": "CD6105",
+            "zone_de_sante": "Alimbongo",
+            "pcode_zs": "CD6105ZS01",
+            "pop_2019": " 235,304 ",
+            "pop_2020 ": " 243,069 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Lubero",
+            "pcode_terrtoire": "CD6105",
+            "zone_de_sante": "Biena",
+            "pcode_zs": "CD6105ZS02",
+            "pop_2019": " 126,776 ",
+            "pop_2020 ": " 130,960 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Lubero",
+            "pcode_terrtoire": "CD6105",
+            "zone_de_sante": "Kayna",
+            "pcode_zs": "CD6105ZS03",
+            "pop_2019": " 374,825 ",
+            "pop_2020 ": " 387,194 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Lubero",
+            "pcode_terrtoire": "CD6105",
+            "zone_de_sante": "Lubero",
+            "pcode_zs": "CD6105ZS04",
+            "pop_2019": " 284,071 ",
+            "pop_2020 ": " 293,445 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Lubero",
+            "pcode_terrtoire": "CD6105",
+            "zone_de_sante": "Manguredjipa",
+            "pcode_zs": "CD6105ZS05",
+            "pop_2019": " 77,297 ",
+            "pop_2020 ": " 79,848 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Lubero",
+            "pcode_terrtoire": "CD6105",
+            "zone_de_sante": "Masereka",
+            "pcode_zs": "CD6105ZS06",
+            "pop_2019": " 189,583 ",
+            "pop_2020 ": " 195,839 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Lubero",
+            "pcode_terrtoire": "CD6105",
+            "zone_de_sante": "Musienene",
+            "pcode_zs": "CD6105ZS07",
+            "pop_2019": " 266,100 ",
+            "pop_2020 ": " 274,881 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Oïcha",
+            "pcode_terrtoire": "CD6107",
+            "zone_de_sante": "Kalunguta",
+            "pcode_zs": "CD6107ZS01",
+            "pop_2019": " 212,947 ",
+            "pop_2020 ": " 219,974 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Oïcha",
+            "pcode_terrtoire": "CD6107",
+            "zone_de_sante": "Kamango",
+            "pcode_zs": "CD6107ZS02",
+            "pop_2019": " 112,742 ",
+            "pop_2020 ": " 116,462 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Oïcha",
+            "pcode_terrtoire": "CD6107",
+            "zone_de_sante": "Kyondo",
+            "pcode_zs": "CD6107ZS03",
+            "pop_2019": " 229,589 ",
+            "pop_2020 ": " 237,165 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Oïcha",
+            "pcode_terrtoire": "CD6107",
+            "zone_de_sante": "Mabalako",
+            "pcode_zs": "CD6107ZS04",
+            "pop_2019": " 198,636 ",
+            "pop_2020 ": " 205,191 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Oïcha",
+            "pcode_terrtoire": "CD6107",
+            "zone_de_sante": "Mutwanga",
+            "pcode_zs": "CD6107ZS05",
+            "pop_2019": " 264,633 ",
+            "pop_2020 ": " 273,366 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Oïcha",
+            "pcode_terrtoire": "CD6107",
+            "zone_de_sante": "Oicha",
+            "pcode_zs": "CD6107ZS06",
+            "pop_2019": " 358,713 ",
+            "pop_2020 ": " 370,551 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Oïcha",
+            "pcode_terrtoire": "CD6107",
+            "zone_de_sante": "Vuhovi",
+            "pcode_zs": "CD6107ZS07",
+            "pop_2019": " 129,673 ",
+            "pop_2020 ": " 133,952 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Beni",
+            "pcode_terrtoire": "CD6109",
+            "zone_de_sante": "Beni",
+            "pcode_zs": "CD6109ZS01",
+            "pop_2019": " 408,065 ",
+            "pop_2020 ": " 421,531 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Butembo",
+            "pcode_terrtoire": "CD6110",
+            "zone_de_sante": "Butembo",
+            "pcode_zs": "CD6110ZS01",
+            "pop_2019": " 337,394 ",
+            "pop_2020 ": " 348,528 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Butembo",
+            "pcode_terrtoire": "CD6110",
+            "zone_de_sante": "Katwa",
+            "pcode_zs": "CD6110ZS02",
+            "pop_2019": " 438,943 ",
+            "pop_2020 ": " 453,428 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Rutshuru",
+            "pcode_terrtoire": "CD6111",
+            "zone_de_sante": "Bambo",
+            "pcode_zs": "CD6111ZS01",
+            "pop_2019": " 161,556 ",
+            "pop_2020 ": " 166,887 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Rutshuru",
+            "pcode_terrtoire": "CD6111",
+            "zone_de_sante": "Binza",
+            "pcode_zs": "CD6111ZS02",
+            "pop_2019": " 196,780 ",
+            "pop_2020 ": " 203,274 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Rutshuru",
+            "pcode_terrtoire": "CD6111",
+            "zone_de_sante": "Birambizo",
+            "pcode_zs": "CD6111ZS03",
+            "pop_2019": " 411,587 ",
+            "pop_2020 ": " 425,169 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Rutshuru",
+            "pcode_terrtoire": "CD6111",
+            "zone_de_sante": "Kibirizi",
+            "pcode_zs": "CD6111ZS04",
+            "pop_2019": " 304,184 ",
+            "pop_2020 ": " 314,222 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Rutshuru",
+            "pcode_terrtoire": "CD6111",
+            "zone_de_sante": "Rutshuru",
+            "pcode_zs": "CD6111ZS05",
+            "pop_2019": " 303,324 ",
+            "pop_2020 ": " 313,334 "
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Rutshuru",
+            "pcode_terrtoire": "CD6111",
+            "zone_de_sante": "Rwanguba",
+            "pcode_zs": "CD6111ZS06",
+            "pop_2019": " 277,823 ",
+            "pop_2020 ": " 286,991 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Bukavu",
+            "pcode_terrtoire": "CD6201",
+            "zone_de_sante": "Bagira",
+            "pcode_zs": "CD6201ZS01",
+            "pop_2019": " 135,955 ",
+            "pop_2020 ": " 140,442 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Bukavu",
+            "pcode_terrtoire": "CD6201",
+            "zone_de_sante": "Ibanda",
+            "pcode_zs": "CD6201ZS02",
+            "pop_2019": " 441,555 ",
+            "pop_2020 ": " 456,126 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Bukavu",
+            "pcode_terrtoire": "CD6201",
+            "zone_de_sante": "Kadutu",
+            "pcode_zs": "CD6201ZS03",
+            "pop_2019": " 360,050 ",
+            "pop_2020 ": " 371,932 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Kabare",
+            "pcode_terrtoire": "CD6202",
+            "zone_de_sante": "Kabare",
+            "pcode_zs": "CD6202ZS01",
+            "pop_2019": " 229,491 ",
+            "pop_2020 ": " 237,064 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Kabare",
+            "pcode_terrtoire": "CD6202",
+            "zone_de_sante": "Kaniola",
+            "pcode_zs": "CD6202ZS02",
+            "pop_2019": " 176,837 ",
+            "pop_2020 ": " 182,673 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Kabare",
+            "pcode_terrtoire": "CD6202",
+            "zone_de_sante": "Katana",
+            "pcode_zs": "CD6202ZS03",
+            "pop_2019": " 222,860 ",
+            "pop_2020 ": " 230,214 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Kabare",
+            "pcode_terrtoire": "CD6202",
+            "zone_de_sante": "Miti-Murhesa",
+            "pcode_zs": "CD6202ZS04",
+            "pop_2019": " 255,179 ",
+            "pop_2020 ": " 263,600 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Kabare",
+            "pcode_terrtoire": "CD6202",
+            "zone_de_sante": "Nyantende",
+            "pcode_zs": "CD6202ZS05",
+            "pop_2019": " 132,771 ",
+            "pop_2020 ": " 137,152 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Shabunda",
+            "pcode_terrtoire": "CD6203",
+            "zone_de_sante": "Kalole",
+            "pcode_zs": "CD6203ZS01",
+            "pop_2019": " 129,574 ",
+            "pop_2020 ": " 133,850 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Shabunda",
+            "pcode_terrtoire": "CD6203",
+            "zone_de_sante": "Lulingu",
+            "pcode_zs": "CD6203ZS02",
+            "pop_2019": " 173,491 ",
+            "pop_2020 ": " 179,216 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Shabunda",
+            "pcode_terrtoire": "CD6203",
+            "zone_de_sante": "Mulungu",
+            "pcode_zs": "CD6203ZS03",
+            "pop_2019": " 161,950 ",
+            "pop_2020 ": " 167,294 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Shabunda",
+            "pcode_terrtoire": "CD6203",
+            "zone_de_sante": "Shabunda",
+            "pcode_zs": "CD6203ZS04",
+            "pop_2019": " 196,446 ",
+            "pop_2020 ": " 202,929 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Kalehe",
+            "pcode_terrtoire": "CD6205",
+            "zone_de_sante": "Bunyakiri",
+            "pcode_zs": "CD6205ZS01",
+            "pop_2019": " 223,614 ",
+            "pop_2020 ": " 230,993 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Kalehe",
+            "pcode_terrtoire": "CD6205",
+            "zone_de_sante": "Kalehe",
+            "pcode_zs": "CD6205ZS02",
+            "pop_2019": " 177,160 ",
+            "pop_2020 ": " 183,006 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Kalehe",
+            "pcode_terrtoire": "CD6205",
+            "zone_de_sante": "Kalonge",
+            "pcode_zs": "CD6205ZS03",
+            "pop_2019": " 168,000 ",
+            "pop_2020 ": " 173,544 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Kalehe",
+            "pcode_terrtoire": "CD6205",
+            "zone_de_sante": "Minova",
+            "pcode_zs": "CD6205ZS04",
+            "pop_2019": " 260,674 ",
+            "pop_2020 ": " 269,276 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Idjwi",
+            "pcode_terrtoire": "CD6206",
+            "zone_de_sante": "Idjwi",
+            "pcode_zs": "CD6206ZS01",
+            "pop_2019": " 278,742 ",
+            "pop_2020 ": " 287,940 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Walungu",
+            "pcode_terrtoire": "CD6207",
+            "zone_de_sante": "Kaziba",
+            "pcode_zs": "CD6207ZS01",
+            "pop_2019": " 127,168 ",
+            "pop_2020 ": " 131,365 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Walungu",
+            "pcode_terrtoire": "CD6207",
+            "zone_de_sante": "Mubumbano",
+            "pcode_zs": "CD6207ZS02",
+            "pop_2019": " 195,447 ",
+            "pop_2020 ": " 201,897 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Walungu",
+            "pcode_terrtoire": "CD6207",
+            "zone_de_sante": "Nyangezi",
+            "pcode_zs": "CD6207ZS03",
+            "pop_2019": " 155,931 ",
+            "pop_2020 ": " 161,077 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Walungu",
+            "pcode_terrtoire": "CD6207",
+            "zone_de_sante": "Walungu",
+            "pcode_zs": "CD6207ZS04",
+            "pop_2019": " 269,716 ",
+            "pop_2020 ": " 278,617 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Uvira",
+            "pcode_terrtoire": "CD6208",
+            "zone_de_sante": "Hauts-Plateaux",
+            "pcode_zs": "CD6208ZS01",
+            "pop_2019": " 147,840 ",
+            "pop_2020 ": " 152,719 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Uvira",
+            "pcode_terrtoire": "CD6208",
+            "zone_de_sante": "Lemera",
+            "pcode_zs": "CD6208ZS02",
+            "pop_2019": " 178,930 ",
+            "pop_2020 ": " 184,835 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Uvira",
+            "pcode_terrtoire": "CD6208",
+            "zone_de_sante": "Ruzizi",
+            "pcode_zs": "CD6208ZS03",
+            "pop_2019": " 178,925 ",
+            "pop_2020 ": " 184,830 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Uvira",
+            "pcode_terrtoire": "CD6208",
+            "zone_de_sante": "Uvira",
+            "pcode_zs": "CD6208ZS04",
+            "pop_2019": " 336,792 ",
+            "pop_2020 ": " 347,906 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Fizi",
+            "pcode_terrtoire": "CD6210",
+            "zone_de_sante": "Fizi",
+            "pcode_zs": "CD6210ZS01",
+            "pop_2019": " 337,096 ",
+            "pop_2020 ": " 348,220 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Fizi",
+            "pcode_terrtoire": "CD6210",
+            "zone_de_sante": "Kimbi Lulenge",
+            "pcode_zs": "CD6210ZS02",
+            "pop_2019": " 196,875 ",
+            "pop_2020 ": " 203,372 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Fizi",
+            "pcode_terrtoire": "CD6210",
+            "zone_de_sante": "Minembwe",
+            "pcode_zs": "CD6210ZS03",
+            "pop_2019": " 86,652 ",
+            "pop_2020 ": " 89,512 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Fizi",
+            "pcode_terrtoire": "CD6210",
+            "zone_de_sante": "Nundu",
+            "pcode_zs": "CD6210ZS04",
+            "pop_2019": " 205,743 ",
+            "pop_2020 ": " 212,533 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Mwenga",
+            "pcode_terrtoire": "CD6212",
+            "zone_de_sante": "Itombwe",
+            "pcode_zs": "CD6212ZS01",
+            "pop_2019": " 96,529 ",
+            "pop_2020 ": " 99,714 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Mwenga",
+            "pcode_terrtoire": "CD6212",
+            "zone_de_sante": "Kamituga",
+            "pcode_zs": "CD6212ZS02",
+            "pop_2019": " 202,014 ",
+            "pop_2020 ": " 208,680 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Mwenga",
+            "pcode_terrtoire": "CD6212",
+            "zone_de_sante": "Kitutu",
+            "pcode_zs": "CD6212ZS03",
+            "pop_2019": " 154,849 ",
+            "pop_2020 ": " 159,959 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Mwenga",
+            "pcode_terrtoire": "CD6212",
+            "zone_de_sante": "Mwana",
+            "pcode_zs": "CD6212ZS04",
+            "pop_2019": " 140,712 ",
+            "pop_2020 ": " 145,355 "
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Mwenga",
+            "pcode_terrtoire": "CD6212",
+            "zone_de_sante": "Mwenga",
+            "pcode_zs": "CD6212ZS05",
+            "pop_2019": " 142,408 ",
+            "pop_2020 ": " 147,107 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Kindu",
+            "pcode_terrtoire": "CD6301",
+            "zone_de_sante": "Alunguli",
+            "pcode_zs": "CD6301ZS01",
+            "pop_2019": " 85,376 ",
+            "pop_2020 ": " 88,193 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Kindu",
+            "pcode_terrtoire": "CD6301",
+            "zone_de_sante": "Kindu",
+            "pcode_zs": "CD6301ZS02",
+            "pop_2019": " 194,971 ",
+            "pop_2020 ": " 201,405 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Kailo",
+            "pcode_terrtoire": "CD6302",
+            "zone_de_sante": "Kailo",
+            "pcode_zs": "CD6302ZS01",
+            "pop_2019": " 152,457 ",
+            "pop_2020 ": " 157,488 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Punia",
+            "pcode_terrtoire": "CD6303",
+            "zone_de_sante": "Ferekeni",
+            "pcode_zs": "CD6303ZS01",
+            "pop_2019": " 76,637 ",
+            "pop_2020 ": " 79,166 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Punia",
+            "pcode_terrtoire": "CD6303",
+            "zone_de_sante": "Punia",
+            "pcode_zs": "CD6303ZS02",
+            "pop_2019": " 106,919 ",
+            "pop_2020 ": " 110,447 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Lubutu",
+            "pcode_terrtoire": "CD6305",
+            "zone_de_sante": "Lubutu",
+            "pcode_zs": "CD6305ZS01",
+            "pop_2019": " 128,515 ",
+            "pop_2020 ": " 132,756 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Lubutu",
+            "pcode_terrtoire": "CD6305",
+            "zone_de_sante": "Obokote",
+            "pcode_zs": "CD6305ZS02",
+            "pop_2019": " 86,844 ",
+            "pop_2020 ": " 89,710 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Pangi",
+            "pcode_terrtoire": "CD6307",
+            "zone_de_sante": "Kalima",
+            "pcode_zs": "CD6307ZS01",
+            "pop_2019": " 147,025 ",
+            "pop_2020 ": " 151,877 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Pangi",
+            "pcode_terrtoire": "CD6307",
+            "zone_de_sante": "Kampene",
+            "pcode_zs": "CD6307ZS02",
+            "pop_2019": " 155,323 ",
+            "pop_2020 ": " 160,449 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Pangi",
+            "pcode_terrtoire": "CD6307",
+            "zone_de_sante": "Pangi",
+            "pcode_zs": "CD6307ZS03",
+            "pop_2019": " 100,332 ",
+            "pop_2020 ": " 103,643 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Kabambare",
+            "pcode_terrtoire": "CD6309",
+            "zone_de_sante": "Kabambare",
+            "pcode_zs": "CD6309ZS01",
+            "pop_2019": " 124,618 ",
+            "pop_2020 ": " 128,730 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Kabambare",
+            "pcode_terrtoire": "CD6309",
+            "zone_de_sante": "Lusangi",
+            "pcode_zs": "CD6309ZS02",
+            "pop_2019": " 181,981 ",
+            "pop_2020 ": " 187,986 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Kabambare",
+            "pcode_terrtoire": "CD6309",
+            "zone_de_sante": "Saramabila",
+            "pcode_zs": "CD6309ZS03",
+            "pop_2019": " 155,420 ",
+            "pop_2020 ": " 160,549 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Kasongo",
+            "pcode_terrtoire": "CD6311",
+            "zone_de_sante": "Kasongo",
+            "pcode_zs": "CD6311ZS01",
+            "pop_2019": " 239,041 ",
+            "pop_2020 ": " 246,929 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Kasongo",
+            "pcode_terrtoire": "CD6311",
+            "zone_de_sante": "Kunda",
+            "pcode_zs": "CD6311ZS02",
+            "pop_2019": " 285,095 ",
+            "pop_2020 ": " 294,503 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Kasongo",
+            "pcode_terrtoire": "CD6311",
+            "zone_de_sante": "Samba",
+            "pcode_zs": "CD6311ZS03",
+            "pop_2019": " 128,969 ",
+            "pop_2020 ": " 133,225 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Kibombo",
+            "pcode_terrtoire": "CD6313",
+            "zone_de_sante": "Kibombo",
+            "pcode_zs": "CD6313ZS01",
+            "pop_2019": " 112,219 ",
+            "pop_2020 ": " 115,922 "
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Kibombo",
+            "pcode_terrtoire": "CD6313",
+            "zone_de_sante": "Tunda",
+            "pcode_zs": "CD6313ZS02",
+            "pop_2019": " 90,574 ",
+            "pop_2020 ": " 93,563 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Lubumbashi",
+            "pcode_terrtoire": "CD7101",
+            "zone_de_sante": "Kamalondo",
+            "pcode_zs": "CD7101ZS01",
+            "pop_2019": " 68,135 ",
+            "pop_2020 ": " 70,792 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Lubumbashi",
+            "pcode_terrtoire": "CD7101",
+            "zone_de_sante": "Kampemba",
+            "pcode_zs": "CD7101ZS02",
+            "pop_2019": " 430,718 ",
+            "pop_2020 ": " 447,516 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Lubumbashi",
+            "pcode_terrtoire": "CD7101",
+            "zone_de_sante": "Katuba",
+            "pcode_zs": "CD7101ZS03",
+            "pop_2019": " 268,967 ",
+            "pop_2020 ": " 279,457 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Lubumbashi",
+            "pcode_terrtoire": "CD7101",
+            "zone_de_sante": "Kenya",
+            "pcode_zs": "CD7101ZS04",
+            "pop_2019": " 284,190 ",
+            "pop_2020 ": " 295,273 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Lubumbashi",
+            "pcode_terrtoire": "CD7101",
+            "zone_de_sante": "Kisanga",
+            "pcode_zs": "CD7101ZS05",
+            "pop_2019": " 252,988 ",
+            "pop_2020 ": " 262,855 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Lubumbashi",
+            "pcode_terrtoire": "CD7101",
+            "zone_de_sante": "Kowe",
+            "pcode_zs": "CD7101ZS06",
+            "pop_2019": " 38,818 ",
+            "pop_2020 ": " 40,332 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Lubumbashi",
+            "pcode_terrtoire": "CD7101",
+            "zone_de_sante": "Lubumbashi",
+            "pcode_zs": "CD7101ZS07",
+            "pop_2019": " 170,182 ",
+            "pop_2020 ": " 176,819 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Lubumbashi",
+            "pcode_terrtoire": "CD7101",
+            "zone_de_sante": "Mumbunda",
+            "pcode_zs": "CD7101ZS08",
+            "pop_2019": " 285,490 ",
+            "pop_2020 ": " 296,624 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Lubumbashi",
+            "pcode_terrtoire": "CD7101",
+            "zone_de_sante": "Rwashi",
+            "pcode_zs": "CD7101ZS09",
+            "pop_2019": " 393,860 ",
+            "pop_2020 ": " 409,221 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Lubumbashi",
+            "pcode_terrtoire": "CD7101",
+            "zone_de_sante": "Tshamilemba",
+            "pcode_zs": "CD7101ZS10",
+            "pop_2019": " 231,432 ",
+            "pop_2020 ": " 240,458 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Lubumbashi",
+            "pcode_terrtoire": "CD7101",
+            "zone_de_sante": "Vangu",
+            "pcode_zs": "CD7101ZS11",
+            "pop_2019": " 149,125 ",
+            "pop_2020 ": " 154,941 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Kipushi",
+            "pcode_terrtoire": "CD7102",
+            "zone_de_sante": "Kafubu",
+            "pcode_zs": "CD7102ZS01",
+            "pop_2019": " 103,790 ",
+            "pop_2020 ": " 107,838 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Kipushi",
+            "pcode_terrtoire": "CD7102",
+            "zone_de_sante": "Kipushi",
+            "pcode_zs": "CD7102ZS02",
+            "pop_2019": " 219,036 ",
+            "pop_2020 ": " 227,578 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Sakania",
+            "pcode_terrtoire": "CD7104",
+            "zone_de_sante": "Sakania",
+            "pcode_zs": "CD7104ZS01",
+            "pop_2019": " 255,407 ",
+            "pop_2020 ": " 265,368 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Kambove",
+            "pcode_terrtoire": "CD7105",
+            "zone_de_sante": "Kambove",
+            "pcode_zs": "CD7105ZS01",
+            "pop_2019": " 133,019 ",
+            "pop_2020 ": " 138,207 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Kambove",
+            "pcode_terrtoire": "CD7105",
+            "zone_de_sante": "Kapolowe",
+            "pcode_zs": "CD7105ZS02",
+            "pop_2019": " 163,677 ",
+            "pop_2020 ": " 170,060 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Kambove",
+            "pcode_terrtoire": "CD7105",
+            "zone_de_sante": "Kilela Balanda",
+            "pcode_zs": "CD7105ZS03",
+            "pop_2019": " 75,171 ",
+            "pop_2020 ": " 78,103 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Kambove",
+            "pcode_terrtoire": "CD7105",
+            "zone_de_sante": "Manika",
+            "pcode_zs": "CD7105ZS04",
+            "pop_2019": " 502,813 ",
+            "pop_2020 ": " 522,423 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Kambove",
+            "pcode_terrtoire": "CD7105",
+            "zone_de_sante": "Panda",
+            "pcode_zs": "CD7105ZS05",
+            "pop_2019": " 95,170 ",
+            "pop_2020 ": " 98,882 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Likasi",
+            "pcode_terrtoire": "CD7106",
+            "zone_de_sante": "Likasi",
+            "pcode_zs": "CD7106ZS01",
+            "pop_2019": " 153,622 ",
+            "pop_2020 ": " 159,613 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Kasenga",
+            "pcode_terrtoire": "CD7107",
+            "zone_de_sante": "Kasenga",
+            "pcode_zs": "CD7107ZS01",
+            "pop_2019": " 163,622 ",
+            "pop_2020 ": " 170,003 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Kasenga",
+            "pcode_terrtoire": "CD7107",
+            "zone_de_sante": "Kikula",
+            "pcode_zs": "CD7107ZS02",
+            "pop_2019": " 253,202 ",
+            "pop_2020 ": " 263,077 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Kasenga",
+            "pcode_terrtoire": "CD7107",
+            "zone_de_sante": "Lukafu",
+            "pcode_zs": "CD7107ZS03",
+            "pop_2019": " 95,172 ",
+            "pop_2020 ": " 98,884 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Kasenga",
+            "pcode_terrtoire": "CD7107",
+            "zone_de_sante": "Kashobwe",
+            "pcode_zs": "CD7107ZS04",
+            "pop_2019": " 154,887 ",
+            "pop_2020 ": " 160,928 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Mitwaba",
+            "pcode_terrtoire": "CD7108",
+            "zone_de_sante": "Mitwaba",
+            "pcode_zs": "CD7108ZS01",
+            "pop_2019": " 126,578 ",
+            "pop_2020 ": " 131,515 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Mitwaba",
+            "pcode_terrtoire": "CD7108",
+            "zone_de_sante": "Mufunga Sampwe",
+            "pcode_zs": "CD7108ZS02",
+            "pop_2019": " 189,980 ",
+            "pop_2020 ": " 197,389 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Pweto",
+            "pcode_terrtoire": "CD7109",
+            "zone_de_sante": "Kilwa",
+            "pcode_zs": "CD7109ZS01",
+            "pop_2019": " 341,680 ",
+            "pop_2020 ": " 355,006 "
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Pweto",
+            "pcode_terrtoire": "CD7109",
+            "zone_de_sante": "Pweto",
+            "pcode_zs": "CD7109ZS02",
+            "pop_2019": " 272,743 ",
+            "pop_2020 ": " 283,380 "
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Mutshatsha",
+            "pcode_terrtoire": "CD7202",
+            "zone_de_sante": "Dilala",
+            "pcode_zs": "CD7202ZS01",
+            "pop_2019": " 319,289 ",
+            "pop_2020 ": " 331,741 "
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Mutshatsha",
+            "pcode_terrtoire": "CD7202",
+            "zone_de_sante": "Lualaba",
+            "pcode_zs": "CD7202ZS02",
+            "pop_2019": " 184,842 ",
+            "pop_2020 ": " 192,051 "
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Mutshatsha",
+            "pcode_terrtoire": "CD7202",
+            "zone_de_sante": "Mutshatsha",
+            "pcode_zs": "CD7202ZS03",
+            "pop_2019": " 81,423 ",
+            "pop_2020 ": " 84,598 "
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Lubudi",
+            "pcode_terrtoire": "CD7203",
+            "zone_de_sante": "Bunkeya",
+            "pcode_zs": "CD7203ZS01",
+            "pop_2019": " 58,145 ",
+            "pop_2020 ": " 60,413 "
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Lubudi",
+            "pcode_terrtoire": "CD7203",
+            "zone_de_sante": "Fungurume",
+            "pcode_zs": "CD7203ZS02",
+            "pop_2019": " 307,063 ",
+            "pop_2020 ": " 319,038 "
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Lubudi",
+            "pcode_terrtoire": "CD7203",
+            "zone_de_sante": "Kanzenze",
+            "pcode_zs": "CD7203ZS03",
+            "pop_2019": " 105,925 ",
+            "pop_2020 ": " 110,056 "
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Lubudi",
+            "pcode_terrtoire": "CD7203",
+            "zone_de_sante": "Lubudi",
+            "pcode_zs": "CD7203ZS04",
+            "pop_2019": " 86,440 ",
+            "pop_2020 ": " 89,811 "
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Dilolo",
+            "pcode_terrtoire": "CD7205",
+            "zone_de_sante": "Dilolo",
+            "pcode_zs": "CD7205ZS01",
+            "pop_2019": " 195,956 ",
+            "pop_2020 ": " 203,598 "
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Dilolo",
+            "pcode_terrtoire": "CD7205",
+            "zone_de_sante": "Kasaji",
+            "pcode_zs": "CD7205ZS02",
+            "pop_2019": " 284,179 ",
+            "pop_2020 ": " 295,262 "
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Sandoa",
+            "pcode_terrtoire": "CD7206",
+            "zone_de_sante": "Kafakumba",
+            "pcode_zs": "CD7206ZS01",
+            "pop_2019": " 134,386 ",
+            "pop_2020 ": " 139,627 "
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Sandoa",
+            "pcode_terrtoire": "CD7206",
+            "zone_de_sante": "Sandoa",
+            "pcode_zs": "CD7206ZS02",
+            "pop_2019": " 234,605 ",
+            "pop_2020 ": " 243,755 "
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Kapanga",
+            "pcode_terrtoire": "CD7207",
+            "zone_de_sante": "Kalamba",
+            "pcode_zs": "CD7207ZS01",
+            "pop_2019": " 102,464 ",
+            "pop_2020 ": " 106,460 "
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Kapanga",
+            "pcode_terrtoire": "CD7207",
+            "zone_de_sante": "Kapanga",
+            "pcode_zs": "CD7207ZS02",
+            "pop_2019": " 161,917 ",
+            "pop_2020 ": " 168,232 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Kamina",
+            "pcode_terrtoire": "CD7302",
+            "zone_de_sante": "Baka",
+            "pcode_zs": "CD7302ZS01",
+            "pop_2019": " 34,101 ",
+            "pop_2020 ": " 35,431 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Kamina",
+            "pcode_terrtoire": "CD7302",
+            "zone_de_sante": "Kamina",
+            "pcode_zs": "CD7302ZS02",
+            "pop_2019": " 341,687 ",
+            "pop_2020 ": " 355,013 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Kamina",
+            "pcode_terrtoire": "CD7302",
+            "zone_de_sante": "Kinda",
+            "pcode_zs": "CD7302ZS03",
+            "pop_2019": " 96,391 ",
+            "pop_2020 ": " 100,150 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Kamina",
+            "pcode_terrtoire": "CD7302",
+            "zone_de_sante": "Songa",
+            "pcode_zs": "CD7302ZS04",
+            "pop_2019": " 194,990 ",
+            "pop_2020 ": " 202,595 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Kaniama",
+            "pcode_terrtoire": "CD7303",
+            "zone_de_sante": "Kaniama",
+            "pcode_zs": "CD7303ZS01",
+            "pop_2019": " 307,906 ",
+            "pop_2020 ": " 319,914 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Kabongo",
+            "pcode_terrtoire": "CD7304",
+            "zone_de_sante": "Kabongo",
+            "pcode_zs": "CD7304ZS01",
+            "pop_2019": " 389,139 ",
+            "pop_2020 ": " 404,315 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Kabongo",
+            "pcode_terrtoire": "CD7304",
+            "zone_de_sante": "Kayamba",
+            "pcode_zs": "CD7304ZS02",
+            "pop_2019": " 113,814 ",
+            "pop_2020 ": " 118,253 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Kabongo",
+            "pcode_terrtoire": "CD7304",
+            "zone_de_sante": "Kitenge",
+            "pcode_zs": "CD7304ZS03",
+            "pop_2019": " 301,305 ",
+            "pop_2020 ": " 313,056 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Malemba-Nkulu",
+            "pcode_terrtoire": "CD7305",
+            "zone_de_sante": "Kinkondja",
+            "pcode_zs": "CD7305ZS01",
+            "pop_2019": " 308,651 ",
+            "pop_2020 ": " 320,688 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Malemba-Nkulu",
+            "pcode_terrtoire": "CD7305",
+            "zone_de_sante": "Lwamba",
+            "pcode_zs": "CD7305ZS02",
+            "pop_2019": " 144,678 ",
+            "pop_2020 ": " 150,320 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Malemba-Nkulu",
+            "pcode_terrtoire": "CD7305",
+            "zone_de_sante": "Mukanga",
+            "pcode_zs": "CD7305ZS03",
+            "pop_2019": " 233,414 ",
+            "pop_2020 ": " 242,517 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Malemba-Nkulu",
+            "pcode_terrtoire": "CD7305",
+            "zone_de_sante": "Mulongo",
+            "pcode_zs": "CD7305ZS04",
+            "pop_2019": " 310,537 ",
+            "pop_2020 ": " 322,648 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Bukama",
+            "pcode_terrtoire": "CD7306",
+            "zone_de_sante": "Bukama",
+            "pcode_zs": "CD7306ZS01",
+            "pop_2019": " 378,314 ",
+            "pop_2020 ": " 393,068 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Bukama",
+            "pcode_terrtoire": "CD7306",
+            "zone_de_sante": "Butumba",
+            "pcode_zs": "CD7306ZS02",
+            "pop_2019": " 211,081 ",
+            "pop_2020 ": " 219,313 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Bukama",
+            "pcode_terrtoire": "CD7306",
+            "zone_de_sante": "Kabondo Dianda",
+            "pcode_zs": "CD7306ZS03",
+            "pop_2019": " 284,966 ",
+            "pop_2020 ": " 296,080 "
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Bukama",
+            "pcode_terrtoire": "CD7306",
+            "zone_de_sante": "Malemba Nkulu",
+            "pcode_zs": "CD7306ZS04",
+            "pop_2019": " 270,422 ",
+            "pop_2020 ": " 280,968 "
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD74",
+            "territoire": "Kalemie",
+            "pcode_terrtoire": "CD7402",
+            "zone_de_sante": "Kalemie",
+            "pcode_zs": "CD7402ZS01",
+            "pop_2019": " 358,116 ",
+            "pop_2020 ": " 372,083 "
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD74",
+            "territoire": "Kalemie",
+            "pcode_terrtoire": "CD7402",
+            "zone_de_sante": "Nyemba",
+            "pcode_zs": "CD7402ZS02",
+            "pop_2019": " 336,477 ",
+            "pop_2020 ": " 349,600 "
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD74",
+            "territoire": "Moba",
+            "pcode_terrtoire": "CD7404",
+            "zone_de_sante": "Kansimba",
+            "pcode_zs": "CD7404ZS01",
+            "pop_2019": " 173,528 ",
+            "pop_2020 ": " 180,296 "
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD74",
+            "territoire": "Moba",
+            "pcode_terrtoire": "CD7404",
+            "zone_de_sante": "Moba",
+            "pcode_zs": "CD7404ZS02",
+            "pop_2019": " 346,486 ",
+            "pop_2020 ": " 359,999 "
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD74",
+            "territoire": "Manono",
+            "pcode_terrtoire": "CD7406",
+            "zone_de_sante": "Ankoro",
+            "pcode_zs": "CD7406ZS01",
+            "pop_2019": " 274,102 ",
+            "pop_2020 ": " 284,792 "
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD74",
+            "territoire": "Manono",
+            "pcode_terrtoire": "CD7406",
+            "zone_de_sante": "Kiyambi",
+            "pcode_zs": "CD7406ZS02",
+            "pop_2019": " 177,619 ",
+            "pop_2020 ": " 184,546 "
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD74",
+            "territoire": "Manono",
+            "pcode_terrtoire": "CD7406",
+            "zone_de_sante": "Manono",
+            "pcode_zs": "CD7406ZS03",
+            "pop_2019": " 300,077 ",
+            "pop_2020 ": " 311,780 "
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD74",
+            "territoire": "Kabalo",
+            "pcode_terrtoire": "CD7407",
+            "zone_de_sante": "Kabalo",
+            "pcode_zs": "CD7407ZS01",
+            "pop_2019": " 269,885 ",
+            "pop_2020 ": " 280,411 "
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD74",
+            "territoire": "Kongolo",
+            "pcode_terrtoire": "CD7409",
+            "zone_de_sante": "Kongolo",
+            "pcode_zs": "CD7409ZS01",
+            "pop_2019": " 322,363 ",
+            "pop_2020 ": " 334,935 "
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD74",
+            "territoire": "Kongolo",
+            "pcode_terrtoire": "CD7409",
+            "zone_de_sante": "Mbulula",
+            "pcode_zs": "CD7409ZS02",
+            "pop_2019": " 203,894 ",
+            "pop_2020 ": " 211,846 "
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD74",
+            "territoire": "Nyunzu",
+            "pcode_terrtoire": "CD7410",
+            "zone_de_sante": "Nyunzu",
+            "pcode_zs": "CD7410ZS01",
+            "pop_2019": " 277,228 ",
+            "pop_2020 ": " 288,040 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Kabinda",
+            "pcode_terrtoire": "CD8102",
+            "zone_de_sante": "Kabinda",
+            "pcode_zs": "CD8102ZS01",
+            "pop_2019": " 300,211 ",
+            "pop_2020 ": " 310,718 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Kabinda",
+            "pcode_terrtoire": "CD8102",
+            "zone_de_sante": "Kalonda Est",
+            "pcode_zs": "CD8102ZS02",
+            "pop_2019": " 247,355 ",
+            "pop_2020 ": " 256,012 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Kabinda",
+            "pcode_terrtoire": "CD8102",
+            "zone_de_sante": "Ludimbi Lukula",
+            "pcode_zs": "CD8102ZS03",
+            "pop_2019": " 166,483 ",
+            "pop_2020 ": " 172,310 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Mwene-Ditu",
+            "pcode_terrtoire": "CD8103",
+            "zone_de_sante": "Makota",
+            "pcode_zs": "CD8103ZS01",
+            "pop_2019": " 256,039 ",
+            "pop_2020 ": " 265,000 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Mwene-Ditu",
+            "pcode_terrtoire": "CD8103",
+            "zone_de_sante": "Mwene Ditu",
+            "pcode_zs": "CD8103ZS02",
+            "pop_2019": " 461,377 ",
+            "pop_2020 ": " 477,525 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Luilu",
+            "pcode_terrtoire": "CD8104",
+            "zone_de_sante": "Kalenda",
+            "pcode_zs": "CD8104ZS01",
+            "pop_2019": " 216,713 ",
+            "pop_2020 ": " 224,298 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Luilu",
+            "pcode_terrtoire": "CD8104",
+            "zone_de_sante": "Kanda Kanda",
+            "pcode_zs": "CD8104ZS02",
+            "pop_2019": " 254,408 ",
+            "pop_2020 ": " 263,312 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Luilu",
+            "pcode_terrtoire": "CD8104",
+            "zone_de_sante": "Luputa",
+            "pcode_zs": "CD8104ZS03",
+            "pop_2019": " 316,126 ",
+            "pop_2020 ": " 327,190 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Luilu",
+            "pcode_terrtoire": "CD8104",
+            "zone_de_sante": "Wikong",
+            "pcode_zs": "CD8104ZS04",
+            "pop_2019": " 129,489 ",
+            "pop_2020 ": " 134,021 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Kamiji",
+            "pcode_terrtoire": "CD8105",
+            "zone_de_sante": "Kamiji",
+            "pcode_zs": "CD8105ZS01",
+            "pop_2019": " 105,909 ",
+            "pop_2020 ": " 109,616 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Ngandajika",
+            "pcode_terrtoire": "CD8106",
+            "zone_de_sante": "Kalambayi Kabanga",
+            "pcode_zs": "CD8106ZS01",
+            "pop_2019": " 170,845 ",
+            "pop_2020 ": " 176,825 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Ngandajika",
+            "pcode_terrtoire": "CD8106",
+            "zone_de_sante": "Mulumba",
+            "pcode_zs": "CD8106ZS02",
+            "pop_2019": " 313,468 ",
+            "pop_2020 ": " 324,439 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Ngandajika",
+            "pcode_terrtoire": "CD8106",
+            "zone_de_sante": "Ngandajika",
+            "pcode_zs": "CD8106ZS03",
+            "pop_2019": " 339,723 ",
+            "pop_2020 ": " 351,613 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Lubao",
+            "pcode_terrtoire": "CD8108",
+            "zone_de_sante": "Kamana",
+            "pcode_zs": "CD8108ZS01",
+            "pop_2019": " 206,805 ",
+            "pop_2020 ": " 214,043 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Lubao",
+            "pcode_terrtoire": "CD8108",
+            "zone_de_sante": "Lubao",
+            "pcode_zs": "CD8108ZS02",
+            "pop_2019": " 225,282 ",
+            "pop_2020 ": " 233,167 "
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Lubao",
+            "pcode_terrtoire": "CD8108",
+            "zone_de_sante": "Tshofa",
+            "pcode_zs": "CD8108ZS03",
+            "pop_2019": " 146,768 ",
+            "pop_2020 ": " 151,905 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Mbuji-Mayi",
+            "pcode_terrtoire": "CD8201",
+            "zone_de_sante": "Bipemba",
+            "pcode_zs": "CD8201ZS01",
+            "pop_2019": " 404,745 ",
+            "pop_2020 ": " 418,911 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Mbuji-Mayi",
+            "pcode_terrtoire": "CD8201",
+            "zone_de_sante": "Bonzola",
+            "pcode_zs": "CD8201ZS02",
+            "pop_2019": " 226,952 ",
+            "pop_2020 ": " 234,895 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Mbuji-Mayi",
+            "pcode_terrtoire": "CD8201",
+            "zone_de_sante": "Dibindi",
+            "pcode_zs": "CD8201ZS03",
+            "pop_2019": " 299,823 ",
+            "pop_2020 ": " 310,317 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Mbuji-Mayi",
+            "pcode_terrtoire": "CD8201",
+            "zone_de_sante": "Diulu",
+            "pcode_zs": "CD8201ZS04",
+            "pop_2019": " 419,850 ",
+            "pop_2020 ": " 434,545 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Mbuji-Mayi",
+            "pcode_terrtoire": "CD8201",
+            "zone_de_sante": "Kansele",
+            "pcode_zs": "CD8201ZS05",
+            "pop_2019": " 286,496 ",
+            "pop_2020 ": " 296,523 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Mbuji-Mayi",
+            "pcode_terrtoire": "CD8201",
+            "zone_de_sante": "Lubilanji",
+            "pcode_zs": "CD8201ZS06",
+            "pop_2019": " 294,817 ",
+            "pop_2020 ": " 305,136 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Mbuji-Mayi",
+            "pcode_terrtoire": "CD8201",
+            "zone_de_sante": "Lukelenge",
+            "pcode_zs": "CD8201ZS07",
+            "pop_2019": " 308,096 ",
+            "pop_2020 ": " 318,879 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Mbuji-Mayi",
+            "pcode_terrtoire": "CD8201",
+            "zone_de_sante": "Mpokolo",
+            "pcode_zs": "CD8201ZS08",
+            "pop_2019": " 344,197 ",
+            "pop_2020 ": " 356,244 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Mbuji-Mayi",
+            "pcode_terrtoire": "CD8201",
+            "zone_de_sante": "Muya",
+            "pcode_zs": "CD8201ZS09",
+            "pop_2019": " 392,954 ",
+            "pop_2020 ": " 406,707 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Mbuji-Mayi",
+            "pcode_terrtoire": "CD8201",
+            "zone_de_sante": "Nzaba",
+            "pcode_zs": "CD8201ZS10",
+            "pop_2019": " 333,714 ",
+            "pop_2020 ": " 345,394 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Tshilenge",
+            "pcode_terrtoire": "CD8202",
+            "zone_de_sante": "Kasansa",
+            "pcode_zs": "CD8202ZS01",
+            "pop_2019": " 232,597 ",
+            "pop_2020 ": " 240,738 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Tshilenge",
+            "pcode_terrtoire": "CD8202",
+            "zone_de_sante": "Tshilenge",
+            "pcode_zs": "CD8202ZS02",
+            "pop_2019": " 334,411 ",
+            "pop_2020 ": " 346,115 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Miabi",
+            "pcode_terrtoire": "CD8205",
+            "zone_de_sante": "Cilundu",
+            "pcode_zs": "CD8205ZS01",
+            "pop_2019": " 205,245 ",
+            "pop_2020 ": " 212,429 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Miabi",
+            "pcode_terrtoire": "CD8205",
+            "zone_de_sante": "Miabi",
+            "pcode_zs": "CD8205ZS02",
+            "pop_2019": " 164,607 ",
+            "pop_2020 ": " 170,368 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Kabeya-Kamwanga",
+            "pcode_terrtoire": "CD8207",
+            "zone_de_sante": "Kabeya Kamuanga",
+            "pcode_zs": "CD8207ZS01",
+            "pop_2019": " 203,586 ",
+            "pop_2020 ": " 210,712 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Lupatapata",
+            "pcode_terrtoire": "CD8208",
+            "zone_de_sante": "Mukumbi",
+            "pcode_zs": "CD8208ZS01",
+            "pop_2019": " 133,541 ",
+            "pop_2020 ": " 138,215 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Lupatapata",
+            "pcode_terrtoire": "CD8208",
+            "zone_de_sante": "Tshishimbi",
+            "pcode_zs": "CD8208ZS02",
+            "pop_2019": " 215,523 ",
+            "pop_2020 ": " 223,066 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Katanda",
+            "pcode_terrtoire": "CD8209",
+            "zone_de_sante": "Bibanga",
+            "pcode_zs": "CD8209ZS01",
+            "pop_2019": " 168,873 ",
+            "pop_2020 ": " 174,784 "
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Katanda",
+            "pcode_terrtoire": "CD8209",
+            "zone_de_sante": "Tshitenge",
+            "pcode_zs": "CD8209ZS02",
+            "pop_2019": " 260,239 ",
+            "pop_2020 ": " 269,347 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Lusambo",
+            "pcode_terrtoire": "CD8302",
+            "zone_de_sante": "Lusambo",
+            "pcode_zs": "CD8302ZS01",
+            "pop_2019": " 99,859 ",
+            "pop_2020 ": " 103,354 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Lusambo",
+            "pcode_terrtoire": "CD8302",
+            "zone_de_sante": "Ototo",
+            "pcode_zs": "CD8302ZS02",
+            "pop_2019": " 142,517 ",
+            "pop_2020 ": " 147,505 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Lusambo",
+            "pcode_terrtoire": "CD8302",
+            "zone_de_sante": "Pania Mutombo",
+            "pcode_zs": "CD8302ZS03",
+            "pop_2019": " 80,916 ",
+            "pop_2020 ": " 83,748 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Lodja",
+            "pcode_terrtoire": "CD8303",
+            "zone_de_sante": "Lodja",
+            "pcode_zs": "CD8303ZS01",
+            "pop_2019": " 203,482 ",
+            "pop_2020 ": " 210,604 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Lodja",
+            "pcode_terrtoire": "CD8303",
+            "zone_de_sante": "Omendjadi",
+            "pcode_zs": "CD8303ZS02",
+            "pop_2019": " 143,957 ",
+            "pop_2020 ": " 148,995 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Lodja",
+            "pcode_terrtoire": "CD8303",
+            "zone_de_sante": "Vanga Kete",
+            "pcode_zs": "CD8303ZS03",
+            "pop_2019": " 136,581 ",
+            "pop_2020 ": " 141,361 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Kole",
+            "pcode_terrtoire": "CD8306",
+            "zone_de_sante": "Bena Dibele",
+            "pcode_zs": "CD8306ZS01",
+            "pop_2019": " 94,736 ",
+            "pop_2020 ": " 98,052 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Kole",
+            "pcode_terrtoire": "CD8306",
+            "zone_de_sante": "Kole",
+            "pcode_zs": "CD8306ZS02",
+            "pop_2019": " 96,869 ",
+            "pop_2020 ": " 100,259 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Lomela",
+            "pcode_terrtoire": "CD8307",
+            "zone_de_sante": "Lomela",
+            "pcode_zs": "CD8307ZS01",
+            "pop_2019": " 124,331 ",
+            "pop_2020 ": " 128,683 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Lomela",
+            "pcode_terrtoire": "CD8307",
+            "zone_de_sante": "Tshudi Loto",
+            "pcode_zs": "CD8307ZS02",
+            "pop_2019": " 85,736 ",
+            "pop_2020 ": " 88,737 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Katako Kombe",
+            "pcode_terrtoire": "CD8308",
+            "zone_de_sante": "Djalo Djeka",
+            "pcode_zs": "CD8308ZS01",
+            "pop_2019": " 88,470 ",
+            "pop_2020 ": " 91,566 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Katako Kombe",
+            "pcode_terrtoire": "CD8308",
+            "zone_de_sante": "Katako Kombe",
+            "pcode_zs": "CD8308ZS02",
+            "pop_2019": " 148,406 ",
+            "pop_2020 ": " 153,600 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Katako Kombe",
+            "pcode_terrtoire": "CD8308",
+            "zone_de_sante": "Wembo Nyama",
+            "pcode_zs": "CD8308ZS03",
+            "pop_2019": " 93,125 ",
+            "pop_2020 ": " 96,384 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Lubefu",
+            "pcode_terrtoire": "CD8309",
+            "zone_de_sante": "Dikungu",
+            "pcode_zs": "CD8309ZS01",
+            "pop_2019": " 155,809 ",
+            "pop_2020 ": " 161,262 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Lubefu",
+            "pcode_terrtoire": "CD8309",
+            "zone_de_sante": "Minga",
+            "pcode_zs": "CD8309ZS02",
+            "pop_2019": " 176,319 ",
+            "pop_2020 ": " 182,490 "
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Lubefu",
+            "pcode_terrtoire": "CD8309",
+            "zone_de_sante": "Tshumbe",
+            "pcode_zs": "CD8309ZS03",
+            "pop_2019": " 107,178 ",
+            "pop_2020 ": " 110,929 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Kananga",
+            "pcode_terrtoire": "CD9101",
+            "zone_de_sante": "Bobozo",
+            "pcode_zs": "CD9101ZS01",
+            "pop_2019": " 48,414 ",
+            "pop_2020 ": " 49,915 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Kananga",
+            "pcode_terrtoire": "CD9101",
+            "zone_de_sante": "Kananga",
+            "pcode_zs": "CD9101ZS02",
+            "pop_2019": " 293,484 ",
+            "pop_2020 ": " 302,582 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Kananga",
+            "pcode_terrtoire": "CD9101",
+            "zone_de_sante": "Katoka",
+            "pcode_zs": "CD9101ZS03",
+            "pop_2019": " 152,155 ",
+            "pop_2020 ": " 156,872 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Kananga",
+            "pcode_terrtoire": "CD9101",
+            "zone_de_sante": "Lukonga",
+            "pcode_zs": "CD9101ZS04",
+            "pop_2019": " 293,071 ",
+            "pop_2020 ": " 302,156 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Kananga",
+            "pcode_terrtoire": "CD9101",
+            "zone_de_sante": "Ndesha",
+            "pcode_zs": "CD9101ZS05",
+            "pop_2019": " 111,374 ",
+            "pop_2020 ": " 114,827 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Kananga",
+            "pcode_terrtoire": "CD9101",
+            "zone_de_sante": "Tshikaji",
+            "pcode_zs": "CD9101ZS06",
+            "pop_2019": " 129,124 ",
+            "pop_2020 ": " 133,127 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Dibaya",
+            "pcode_terrtoire": "CD9102",
+            "zone_de_sante": "Bunkonde",
+            "pcode_zs": "CD9102ZS01",
+            "pop_2019": " 122,489 ",
+            "pop_2020 ": " 126,286 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Dibaya",
+            "pcode_terrtoire": "CD9102",
+            "zone_de_sante": "Dibaya",
+            "pcode_zs": "CD9102ZS02",
+            "pop_2019": " 161,675 ",
+            "pop_2020 ": " 166,687 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Dibaya",
+            "pcode_terrtoire": "CD9102",
+            "zone_de_sante": "Lubondaie",
+            "pcode_zs": "CD9102ZS03",
+            "pop_2019": " 161,994 ",
+            "pop_2020 ": " 167,016 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Dibaya",
+            "pcode_terrtoire": "CD9102",
+            "zone_de_sante": "Tshikula",
+            "pcode_zs": "CD9102ZS04",
+            "pop_2019": " 146,794 ",
+            "pop_2020 ": " 151,345 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Luiza",
+            "pcode_terrtoire": "CD9104",
+            "zone_de_sante": "Luambo",
+            "pcode_zs": "CD9104ZS01",
+            "pop_2019": " 293,798 ",
+            "pop_2020 ": " 302,906 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Luiza",
+            "pcode_terrtoire": "CD9104",
+            "zone_de_sante": "Luiza",
+            "pcode_zs": "CD9104ZS02",
+            "pop_2019": " 185,268 ",
+            "pop_2020 ": " 191,011 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Luiza",
+            "pcode_terrtoire": "CD9104",
+            "zone_de_sante": "Masuika",
+            "pcode_zs": "CD9104ZS03",
+            "pop_2019": " 220,767 ",
+            "pop_2020 ": " 227,611 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Luiza",
+            "pcode_terrtoire": "CD9104",
+            "zone_de_sante": "Yangala",
+            "pcode_zs": "CD9104ZS04",
+            "pop_2019": " 165,065 ",
+            "pop_2020 ": " 170,182 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Kazumba",
+            "pcode_terrtoire": "CD9105",
+            "zone_de_sante": "Bilomba",
+            "pcode_zs": "CD9105ZS01",
+            "pop_2019": " 97,349 ",
+            "pop_2020 ": " 100,367 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Kazumba",
+            "pcode_terrtoire": "CD9105",
+            "zone_de_sante": "Kalomba",
+            "pcode_zs": "CD9105ZS02",
+            "pop_2019": " 162,506 ",
+            "pop_2020 ": " 167,544 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Kazumba",
+            "pcode_terrtoire": "CD9105",
+            "zone_de_sante": "Mikalayi",
+            "pcode_zs": "CD9105ZS03",
+            "pop_2019": " 236,518 ",
+            "pop_2020 ": " 243,850 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Kazumba",
+            "pcode_terrtoire": "CD9105",
+            "zone_de_sante": "Ndekesha",
+            "pcode_zs": "CD9105ZS04",
+            "pop_2019": " 171,634 ",
+            "pop_2020 ": " 176,955 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Kazumba",
+            "pcode_terrtoire": "CD9105",
+            "zone_de_sante": "Tshibala",
+            "pcode_zs": "CD9105ZS05",
+            "pop_2019": " 262,787 ",
+            "pop_2020 ": " 270,933 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Demba",
+            "pcode_terrtoire": "CD9106",
+            "zone_de_sante": "Bena Leka",
+            "pcode_zs": "CD9106ZS01",
+            "pop_2019": " 300,091 ",
+            "pop_2020 ": " 309,394 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Demba",
+            "pcode_terrtoire": "CD9106",
+            "zone_de_sante": "Demba",
+            "pcode_zs": "CD9106ZS02",
+            "pop_2019": " 340,917 ",
+            "pop_2020 ": " 351,485 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Demba",
+            "pcode_terrtoire": "CD9106",
+            "zone_de_sante": "Mutoto",
+            "pcode_zs": "CD9106ZS03",
+            "pop_2019": " 138,937 ",
+            "pop_2020 ": " 143,244 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Dimbelenge",
+            "pcode_terrtoire": "CD9107",
+            "zone_de_sante": "Bena Tshiadi",
+            "pcode_zs": "CD9107ZS01",
+            "pop_2019": " 123,061 ",
+            "pop_2020 ": " 126,876 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Dimbelenge",
+            "pcode_terrtoire": "CD9107",
+            "zone_de_sante": "Katende",
+            "pcode_zs": "CD9107ZS02",
+            "pop_2019": " 97,979 ",
+            "pop_2020 ": " 101,016 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Dimbelenge",
+            "pcode_terrtoire": "CD9107",
+            "zone_de_sante": "Lubunga",
+            "pcode_zs": "CD9107ZS03",
+            "pop_2019": " 105,808 ",
+            "pop_2020 ": " 109,088 "
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Dimbelenge",
+            "pcode_terrtoire": "CD9107",
+            "zone_de_sante": "Muetshi",
+            "pcode_zs": "CD9107ZS04",
+            "pop_2019": " 121,401 ",
+            "pop_2020 ": " 125,164 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Kamonia",
+            "pcode_terrtoire": "CD9202",
+            "zone_de_sante": "Kalonda Ouest",
+            "pcode_zs": "CD9202ZS01",
+            "pop_2019": " 440,621 ",
+            "pop_2020 ": " 454,280 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Kamonia",
+            "pcode_terrtoire": "CD9202",
+            "zone_de_sante": "Kamonia",
+            "pcode_zs": "CD9202ZS02",
+            "pop_2019": " 347,754 ",
+            "pop_2020 ": " 358,534 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Kamonia",
+            "pcode_terrtoire": "CD9202",
+            "zone_de_sante": "Kamwesha",
+            "pcode_zs": "CD9202ZS03",
+            "pop_2019": " 409,407 ",
+            "pop_2020 ": " 422,099 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Kamonia",
+            "pcode_terrtoire": "CD9202",
+            "zone_de_sante": "Kanzala",
+            "pcode_zs": "CD9202ZS04",
+            "pop_2019": " 260,337 ",
+            "pop_2020 ": " 268,407 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Kamonia",
+            "pcode_terrtoire": "CD9202",
+            "zone_de_sante": "Kitangwa",
+            "pcode_zs": "CD9202ZS05",
+            "pop_2019": " 262,529 ",
+            "pop_2020 ": " 270,667 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Kamonia",
+            "pcode_terrtoire": "CD9202",
+            "zone_de_sante": "Mutena",
+            "pcode_zs": "CD9202ZS06",
+            "pop_2019": " 247,041 ",
+            "pop_2020 ": " 254,699 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Kamonia",
+            "pcode_terrtoire": "CD9202",
+            "zone_de_sante": "Nyanga",
+            "pcode_zs": "CD9202ZS07",
+            "pop_2019": " 133,775 ",
+            "pop_2020 ": " 137,922 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Kamonia",
+            "pcode_terrtoire": "CD9202",
+            "zone_de_sante": "Tshikapa",
+            "pcode_zs": "CD9202ZS08",
+            "pop_2019": " 394,109 ",
+            "pop_2020 ": " 406,326 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Luebo",
+            "pcode_terrtoire": "CD9204",
+            "zone_de_sante": "Luebo",
+            "pcode_zs": "CD9204ZS01",
+            "pop_2019": " 261,956 ",
+            "pop_2020 ": " 270,077 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Luebo",
+            "pcode_terrtoire": "CD9204",
+            "zone_de_sante": "Ndjoko-Mpunda",
+            "pcode_zs": "CD9204ZS02",
+            "pop_2019": " 163,499 ",
+            "pop_2020 ": " 168,567 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Ilebo",
+            "pcode_terrtoire": "CD9205",
+            "zone_de_sante": "Banga Lubaka",
+            "pcode_zs": "CD9205ZS01",
+            "pop_2019": " 168,465 ",
+            "pop_2020 ": " 173,687 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Ilebo",
+            "pcode_terrtoire": "CD9205",
+            "zone_de_sante": "Ilebo",
+            "pcode_zs": "CD9205ZS02",
+            "pop_2019": " 191,422 ",
+            "pop_2020 ": " 197,356 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Ilebo",
+            "pcode_terrtoire": "CD9205",
+            "zone_de_sante": "Mikope",
+            "pcode_zs": "CD9205ZS03",
+            "pop_2019": " 201,480 ",
+            "pop_2020 ": " 207,726 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Mweka",
+            "pcode_terrtoire": "CD9207",
+            "zone_de_sante": "Bulape",
+            "pcode_zs": "CD9207ZS01",
+            "pop_2019": " 183,266 ",
+            "pop_2020 ": " 188,947 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Mweka",
+            "pcode_terrtoire": "CD9207",
+            "zone_de_sante": "Kakenge",
+            "pcode_zs": "CD9207ZS02",
+            "pop_2019": " 158,911 ",
+            "pop_2020 ": " 163,837 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Mweka",
+            "pcode_terrtoire": "CD9207",
+            "zone_de_sante": "Mushenge",
+            "pcode_zs": "CD9207ZS03",
+            "pop_2019": " 157,428 ",
+            "pop_2020 ": " 162,308 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Mweka",
+            "pcode_terrtoire": "CD9207",
+            "zone_de_sante": "Mweka",
+            "pcode_zs": "CD9207ZS04",
+            "pop_2019": " 218,234 ",
+            "pop_2020 ": " 224,999 "
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Dekese",
+            "pcode_terrtoire": "CD9208",
+            "zone_de_sante": "Dekese",
+            "pcode_zs": "CD9208ZS01",
+            "pop_2019": " 157,635 ",
+            "pop_2020 ": " 162,522 "
+        }
+    ]
+}
