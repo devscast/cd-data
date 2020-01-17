@@ -1,0 +1,112 @@
+﻿{
+    "pcode_province": [
+        {
+            "Province": "Bas-Uele",
+            "pcode_province": "CD52"
+        },
+        {
+            "Province": "Equateur",
+            "pcode_province": "CD41"
+        },
+        {
+            "Province": "Haut-Katanga",
+            "pcode_province": "CD71"
+        },
+        {
+            "Province": "Haut-Lomami",
+            "pcode_province": "CD73"
+        },
+        {
+            "Province": "Haut-Uele",
+            "pcode_province": "CD53"
+        },
+        {
+            "Province": "Ituri",
+            "pcode_province": "CD54"
+        },
+        {
+            "Province": "Kasaï",
+            "pcode_province": "CD92"
+        },
+        {
+            "Province": "Kasaï-Central",
+            "pcode_province": "CD91"
+        },
+        {
+            "Province": "Kasaï-Oriental",
+            "pcode_province": "CD82"
+        },
+        {
+            "Province": "Kinshasa",
+            "pcode_province": "CD10"
+        },
+        {
+            "Province": "Kongo-Central",
+            "pcode_province": "CD20"
+        },
+        {
+            "Province": "Kwango",
+            "pcode_province": "CD31"
+        },
+        {
+            "Province": "Kwilu",
+            "pcode_province": "CD32"
+        },
+        {
+            "Province": "Lomami",
+            "pcode_province": "CD81"
+        },
+        {
+            "Province": "Lualaba",
+            "pcode_province": "CD72"
+        },
+        {
+            "Province": "Maï-Ndombe",
+            "pcode_province": "CD33"
+        },
+        {
+            "Province": "Maniema",
+            "pcode_province": "CD63"
+        },
+        {
+            "Province": "Mongala",
+            "pcode_province": "CD44"
+        },
+        {
+            "Province": "Nord-Kivu",
+            "pcode_province": "CD61"
+        },
+        {
+            "Province": "Nord-Ubangi",
+            "pcode_province": "CD43"
+        },
+        {
+            "Province": "Sankuru",
+            "pcode_province": "CD83"
+        },
+        {
+            "Province": "Sud-Kivu",
+            "pcode_province": "CD62"
+        },
+        {
+            "Province": "Sud-Ubangi",
+            "pcode_province": "CD42"
+        },
+        {
+            "Province": "Tanganyika",
+            "pcode_province": "CD74"
+        },
+        {
+            "Province": "Tshopo",
+            "pcode_province": "CD51"
+        },
+        {
+            "Province": "Tshuapa",
+            "pcode_province": "CD45"
+        },
+        {
+            "Province": "National",
+            "pcode_province": "CD"
+        }
+    ]
+}
