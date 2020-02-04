@@ -1,0 +1,988 @@
+﻿{
+    "pcode_territoire": [
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD52",
+            "territoire": "Aketi",
+            "pcode_territoire": "CD5204"
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Ango",
+            "pcode_territoire": "CD5207"
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD54",
+            "territoire": "Bambesa",
+            "pcode_territoire": "CD5209"
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD55",
+            "territoire": "Bondo",
+            "pcode_territoire": "CD5206"
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD56",
+            "territoire": "Buta",
+            "pcode_territoire": "CD5202"
+        },
+        {
+            "province": "Bas-Uele",
+            "pcode_province": "CD57",
+            "territoire": "Poko",
+            "pcode_territoire": "CD5208"
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD41",
+            "territoire": "Basankusu",
+            "pcode_territoire": "CD4107"
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD42",
+            "territoire": "Bikoro",
+            "pcode_territoire": "CD4102"
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD43",
+            "territoire": "Bolomba",
+            "pcode_territoire": "CD4108"
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD44",
+            "territoire": "Bomongo",
+            "pcode_territoire": "CD4104"
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD45",
+            "territoire": "Ingende",
+            "pcode_territoire": "CD4109"
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD46",
+            "territoire": "Lukolela",
+            "pcode_territoire": "CD4103"
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD47",
+            "territoire": "Makanza",
+            "pcode_territoire": "CD4105"
+        },
+        {
+            "province": "Equateur",
+            "pcode_province": "CD48",
+            "territoire": "Mbandaka",
+            "pcode_territoire": "CD4101"
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD71",
+            "territoire": "Kambove",
+            "pcode_territoire": "CD7105"
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD72",
+            "territoire": "Kasenga",
+            "pcode_territoire": "CD7107"
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD73",
+            "territoire": "Kipushi",
+            "pcode_territoire": "CD7102"
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD74",
+            "territoire": "Likasi",
+            "pcode_territoire": "CD7106"
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD75",
+            "territoire": "Lubumbashi",
+            "pcode_territoire": "CD7101"
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD76",
+            "territoire": "Mitwaba",
+            "pcode_territoire": "CD7108"
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD77",
+            "territoire": "Pweto",
+            "pcode_territoire": "CD7109"
+        },
+        {
+            "province": "Haut-Katanga",
+            "pcode_province": "CD78",
+            "territoire": "Sakania",
+            "pcode_territoire": "CD7104"
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD73",
+            "territoire": "Bukama",
+            "pcode_territoire": "CD7306"
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD74",
+            "territoire": "Kabongo",
+            "pcode_territoire": "CD7304"
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD75",
+            "territoire": "Kamina",
+            "pcode_territoire": "CD7302"
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD76",
+            "territoire": "Kaniama",
+            "pcode_territoire": "CD7303"
+        },
+        {
+            "province": "Haut-Lomami",
+            "pcode_province": "CD77",
+            "territoire": "Malemba-Nkulu",
+            "pcode_territoire": "CD7305"
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD53",
+            "territoire": "Dungu",
+            "pcode_territoire": "CD5305"
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD54",
+            "territoire": "Faradje",
+            "pcode_territoire": "CD5307"
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD55",
+            "territoire": "Niangara",
+            "pcode_territoire": "CD5303"
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD56",
+            "territoire": "Rungu",
+            "pcode_territoire": "CD5302"
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD57",
+            "territoire": "Wamba",
+            "pcode_territoire": "CD5311"
+        },
+        {
+            "province": "Haut-Uele",
+            "pcode_province": "CD58",
+            "territoire": "Watsa",
+            "pcode_territoire": "CD5309"
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD54",
+            "territoire": "Aru",
+            "pcode_territoire": "CD5409"
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD55",
+            "territoire": "Djugu",
+            "pcode_territoire": "CD5405"
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD56",
+            "territoire": "Irumu",
+            "pcode_territoire": "CD5402"
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD57",
+            "territoire": "Mahagi",
+            "pcode_territoire": "CD5407"
+        },
+        {
+            "province": "Ituri",
+            "pcode_province": "CD58",
+            "territoire": "Mambasa",
+            "pcode_territoire": "CD5403"
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD92",
+            "territoire": "Dekese",
+            "pcode_territoire": "CD9208"
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD93",
+            "territoire": "Ilebo",
+            "pcode_territoire": "CD9205"
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD94",
+            "territoire": "Kamonia",
+            "pcode_territoire": "CD9202"
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD95",
+            "territoire": "Luebo",
+            "pcode_territoire": "CD9204"
+        },
+        {
+            "province": "Kasaï",
+            "pcode_province": "CD96",
+            "territoire": "Mweka",
+            "pcode_territoire": "CD9207"
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD91",
+            "territoire": "Demba",
+            "pcode_territoire": "CD9106"
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD92",
+            "territoire": "Dibaya",
+            "pcode_territoire": "CD9102"
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD93",
+            "territoire": "Dimbelenge",
+            "pcode_territoire": "CD9107"
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD94",
+            "territoire": "Kananga",
+            "pcode_territoire": "CD9101"
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD95",
+            "territoire": "Kazumba",
+            "pcode_territoire": "CD9105"
+        },
+        {
+            "province": "Kasaï-Central",
+            "pcode_province": "CD96",
+            "territoire": "Luiza",
+            "pcode_territoire": "CD9104"
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD82",
+            "territoire": "Kabeya-Kamwanga",
+            "pcode_territoire": "CD8207"
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD83",
+            "territoire": "Katanda",
+            "pcode_territoire": "CD8209"
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD84",
+            "territoire": "Lupatapata",
+            "pcode_territoire": "CD8208"
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD85",
+            "territoire": "Mbuji-Mayi",
+            "pcode_territoire": "CD8201"
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD86",
+            "territoire": "Miabi",
+            "pcode_territoire": "CD8205"
+        },
+        {
+            "province": "Kasaï-Oriental",
+            "pcode_province": "CD87",
+            "territoire": "Tshilenge",
+            "pcode_territoire": "CD8202"
+        },
+        {
+            "province": "Kinshasa",
+            "pcode_province": "CD10",
+            "territoire": "Kinshasa",
+            "pcode_territoire": "CD1000"
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD20",
+            "territoire": "Boma",
+            "pcode_territoire": "CD2002"
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD21",
+            "territoire": "Kasangulu",
+            "pcode_territoire": "CD2015"
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD22",
+            "territoire": "Kimvula",
+            "pcode_territoire": "CD2019"
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD23",
+            "territoire": "Lukula",
+            "pcode_territoire": "CD2005"
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD24",
+            "territoire": "Luozi",
+            "pcode_territoire": "CD2010"
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD25",
+            "territoire": "Madimba",
+            "pcode_territoire": "CD2017"
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD26",
+            "territoire": "Matadi",
+            "pcode_territoire": "CD2001"
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD27",
+            "territoire": "Mbanza-Ngungu",
+            "pcode_territoire": "CD2013"
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD28",
+            "territoire": "Moanda",
+            "pcode_territoire": "CD2003"
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD29",
+            "territoire": "Seke-Banza",
+            "pcode_territoire": "CD2009"
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD30",
+            "territoire": "Songololo",
+            "pcode_territoire": "CD2011"
+        },
+        {
+            "province": "Kongo-Central",
+            "pcode_province": "CD31",
+            "territoire": "Tshela",
+            "pcode_territoire": "CD2007"
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD31",
+            "territoire": "Feshi",
+            "pcode_territoire": "CD3103"
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD32",
+            "territoire": "Kahemba",
+            "pcode_territoire": "CD3105"
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD33",
+            "territoire": "Kasongo-Lunda",
+            "pcode_territoire": "CD3106"
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD34",
+            "territoire": "Kenge",
+            "pcode_territoire": "CD3102"
+        },
+        {
+            "province": "Kwango",
+            "pcode_province": "CD35",
+            "territoire": "Popokabaka",
+            "pcode_territoire": "CD3108"
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD32",
+            "territoire": "Bagata",
+            "pcode_territoire": "CD3202"
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD33",
+            "territoire": "Bandundu",
+            "pcode_territoire": "CD3201"
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD34",
+            "territoire": "Bulungu",
+            "pcode_territoire": "CD3204"
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD35",
+            "territoire": "Gungu",
+            "pcode_territoire": "CD3210"
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD36",
+            "territoire": "Idiofa",
+            "pcode_territoire": "CD3206"
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD37",
+            "territoire": "Kikwit",
+            "pcode_territoire": "CD3203"
+        },
+        {
+            "province": "Kwilu",
+            "pcode_province": "CD38",
+            "territoire": "Masi-Manimba",
+            "pcode_territoire": "CD3212"
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD81",
+            "territoire": "Kabinda",
+            "pcode_territoire": "CD8102"
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD82",
+            "territoire": "Kamiji",
+            "pcode_territoire": "CD8105"
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD83",
+            "territoire": "Lubao",
+            "pcode_territoire": "CD8108"
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD84",
+            "territoire": "Luilu",
+            "pcode_territoire": "CD8104"
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD85",
+            "territoire": "Mwene-Ditu",
+            "pcode_territoire": "CD8103"
+        },
+        {
+            "province": "Lomami",
+            "pcode_province": "CD86",
+            "territoire": "Ngandajika",
+            "pcode_territoire": "CD8106"
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD72",
+            "territoire": "Dilolo",
+            "pcode_territoire": "CD7205"
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD73",
+            "territoire": "Kapanga",
+            "pcode_territoire": "CD7207"
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD74",
+            "territoire": "Lubudi",
+            "pcode_territoire": "CD7203"
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD75",
+            "territoire": "Mutshatsha",
+            "pcode_territoire": "CD7202"
+        },
+        {
+            "province": "Lualaba",
+            "pcode_province": "CD76",
+            "territoire": "Sandoa",
+            "pcode_territoire": "CD7206"
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD33",
+            "territoire": "Bolobo",
+            "pcode_territoire": "CD3308"
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD34",
+            "territoire": "Inongo",
+            "pcode_territoire": "CD3302"
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD35",
+            "territoire": "Kiri",
+            "pcode_territoire": "CD3303"
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD36",
+            "territoire": "Kutu",
+            "pcode_territoire": "CD3306"
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD37",
+            "territoire": "Kwamouth",
+            "pcode_territoire": "CD3307"
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD38",
+            "territoire": "Mushie",
+            "pcode_territoire": "CD3311"
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD39",
+            "territoire": "Oshwe",
+            "pcode_territoire": "CD3304"
+        },
+        {
+            "province": "Maï-Ndombe",
+            "pcode_province": "CD40",
+            "territoire": "Yumbi",
+            "pcode_territoire": "CD3310"
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD63",
+            "territoire": "Kabambare",
+            "pcode_territoire": "CD6309"
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD64",
+            "territoire": "Kailo",
+            "pcode_territoire": "CD6302"
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD65",
+            "territoire": "Kasongo",
+            "pcode_territoire": "CD6311"
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD66",
+            "territoire": "Kibombo",
+            "pcode_territoire": "CD6313"
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD67",
+            "territoire": "Kindu",
+            "pcode_territoire": "CD6301"
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD68",
+            "territoire": "Lubutu",
+            "pcode_territoire": "CD6305"
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD69",
+            "territoire": "Pangi",
+            "pcode_territoire": "CD6307"
+        },
+        {
+            "province": "Maniema",
+            "pcode_province": "CD70",
+            "territoire": "Punia",
+            "pcode_territoire": "CD6303"
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD44",
+            "territoire": "Bongandanga",
+            "pcode_territoire": "CD4405"
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD45",
+            "territoire": "Bumba",
+            "pcode_territoire": "CD4404"
+        },
+        {
+            "province": "Mongala",
+            "pcode_province": "CD46",
+            "territoire": "Lisala",
+            "pcode_territoire": "CD4402"
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD61",
+            "territoire": "Beni",
+            "pcode_territoire": "CD6109"
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Butembo",
+            "pcode_territoire": "CD6110"
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD63",
+            "territoire": "Goma",
+            "pcode_territoire": "CD6101"
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD64",
+            "territoire": "Lubero",
+            "pcode_territoire": "CD6105"
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD65",
+            "territoire": "Masisi",
+            "pcode_territoire": "CD6103"
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD66",
+            "territoire": "Nyiragongo",
+            "pcode_territoire": "CD6102"
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD67",
+            "territoire": "Oïcha",
+            "pcode_territoire": "CD6107"
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD68",
+            "territoire": "Rutshuru",
+            "pcode_territoire": "CD6111"
+        },
+        {
+            "province": "Nord-Kivu",
+            "pcode_province": "CD69",
+            "territoire": "Walikale",
+            "pcode_territoire": "CD6104"
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD43",
+            "territoire": "Bosobolo",
+            "pcode_territoire": "CD4306"
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD44",
+            "territoire": "Businga",
+            "pcode_territoire": "CD4305"
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD45",
+            "territoire": "Gbadolite",
+            "pcode_territoire": "CD4301"
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD46",
+            "territoire": "Mobayi-Mbongo",
+            "pcode_territoire": "CD4302"
+        },
+        {
+            "province": "Nord-Ubangi",
+            "pcode_province": "CD47",
+            "territoire": "Yakoma",
+            "pcode_territoire": "CD4304"
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD83",
+            "territoire": "Katako Kombe",
+            "pcode_territoire": "CD8308"
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD84",
+            "territoire": "Kole",
+            "pcode_territoire": "CD8306"
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD85",
+            "territoire": "Lodja",
+            "pcode_territoire": "CD8303"
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD86",
+            "territoire": "Lomela",
+            "pcode_territoire": "CD8307"
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD87",
+            "territoire": "Lubefu",
+            "pcode_territoire": "CD8309"
+        },
+        {
+            "province": "Sankuru",
+            "pcode_province": "CD88",
+            "territoire": "Lusambo",
+            "pcode_territoire": "CD8302"
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD62",
+            "territoire": "Bukavu",
+            "pcode_territoire": "CD6201"
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD63",
+            "territoire": "Fizi",
+            "pcode_territoire": "CD6210"
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD64",
+            "territoire": "Idjwi",
+            "pcode_territoire": "CD6206"
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD65",
+            "territoire": "Kabare",
+            "pcode_territoire": "CD6202"
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD66",
+            "territoire": "Kalehe",
+            "pcode_territoire": "CD6205"
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD67",
+            "territoire": "Mwenga",
+            "pcode_territoire": "CD6212"
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD68",
+            "territoire": "Shabunda",
+            "pcode_territoire": "CD6203"
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD69",
+            "territoire": "Uvira",
+            "pcode_territoire": "CD6208"
+        },
+        {
+            "province": "Sud-Kivu",
+            "pcode_province": "CD70",
+            "territoire": "Walungu",
+            "pcode_territoire": "CD6207"
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD42",
+            "territoire": "Budjala",
+            "pcode_territoire": "CD4203"
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD43",
+            "territoire": "Gemena",
+            "pcode_territoire": "CD4202"
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD44",
+            "territoire": "Kungu",
+            "pcode_territoire": "CD4204"
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD45",
+            "territoire": "Libenge",
+            "pcode_territoire": "CD4205"
+        },
+        {
+            "province": "Sud-Ubangi",
+            "pcode_province": "CD46",
+            "territoire": "Zongo",
+            "pcode_territoire": "CD4206"
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD74",
+            "territoire": "Kabalo",
+            "pcode_territoire": "CD7407"
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD75",
+            "territoire": "Kalemie",
+            "pcode_territoire": "CD7402"
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD76",
+            "territoire": "Kongolo",
+            "pcode_territoire": "CD7409"
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD77",
+            "territoire": "Manono",
+            "pcode_territoire": "CD7406"
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD78",
+            "territoire": "Moba",
+            "pcode_territoire": "CD7404"
+        },
+        {
+            "province": "Tanganyika",
+            "pcode_province": "CD79",
+            "territoire": "Nyunzu",
+            "pcode_territoire": "CD7410"
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD51",
+            "territoire": "Bafwasende",
+            "pcode_territoire": "CD5111"
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD52",
+            "territoire": "Banalia",
+            "pcode_territoire": "CD5110"
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD53",
+            "territoire": "Basoko",
+            "pcode_territoire": "CD5109"
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD54",
+            "territoire": "Isangi",
+            "pcode_territoire": "CD5105"
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD55",
+            "territoire": "Kisangani",
+            "pcode_territoire": "CD5101"
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD56",
+            "territoire": "Opala",
+            "pcode_territoire": "CD5103"
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD57",
+            "territoire": "Ubundu",
+            "pcode_territoire": "CD5102"
+        },
+        {
+            "province": "Tshopo",
+            "pcode_province": "CD58",
+            "territoire": "Yahuma",
+            "pcode_territoire": "CD5107"
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD45",
+            "territoire": "Befale",
+            "pcode_territoire": "CD4503"
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD46",
+            "territoire": "Boende",
+            "pcode_territoire": "CD4502"
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD47",
+            "territoire": "Bokungu",
+            "pcode_territoire": "CD4506"
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD48",
+            "territoire": "Djolu",
+            "pcode_territoire": "CD4504"
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD49",
+            "territoire": "Ikela",
+            "pcode_territoire": "CD4505"
+        },
+        {
+            "province": "Tshuapa",
+            "pcode_province": "CD50",
+            "territoire": "Monkoto",
+            "pcode_territoire": "CD4507"
+        }
+    ]
+}
