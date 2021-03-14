@@ -1,0 +1,410 @@
+[
+    {
+        "name": "Aketi",
+        "province_id": 1
+    },
+    {
+        "name": "Aru",
+        "province_id": 6
+    },
+    {
+        "name": "Bakwa-Kalonji",
+        "province_id": 9
+    },
+    {
+        "name": "Kasumbalesa",
+        "province_id": 3
+    },
+    {
+        "name": "Bandundu",
+        "province_id": 13
+    },
+    {
+        "name": "Basankusu",
+        "province_id": 2
+    },
+    {
+        "name": "Basoko",
+        "province_id": 25
+    },
+    {
+        "name": "Beni",
+        "province_id": 19
+    },
+    {
+        "name": "Binga",
+        "province_id": 18
+    },
+    {
+        "name": "Boende",
+        "province_id": 26
+    },
+    {
+        "name": "Bolobo",
+        "province_id": 6
+    },
+    {
+        "name": "Boma",
+        "province_id": 11
+    },
+    {
+        "name": "Bukama",
+        "province_id": 4
+    },
+    {
+        "name": "Bukavu",
+        "province_id": 22
+    },
+    {
+        "name": "Bulungu",
+        "province_id": 13
+    },
+    {
+        "name": "Bumba",
+        "province_id": 18
+    },
+    {
+        "name": "Bunia",
+        "province_id": 6
+    },
+    {
+        "name": "Businga",
+        "province_id": 20
+    },
+    {
+        "name": "Buta",
+        "province_id": 1
+    },
+    {
+        "name": "Butembo",
+        "province_id": 19
+    },
+    {
+        "name": "Dibaya-Lubue",
+        "province_id": 13
+    },
+    {
+        "name": "Djugu",
+        "province_id": 6
+    },
+    {
+        "name": "Dungu",
+        "province_id": 5
+    },
+    {
+        "name": "Fungurume",
+        "province_id": 15
+    },
+    {
+        "name": "Gandajika",
+        "province_id": 14
+    },
+    {
+        "name": "Gbadolite",
+        "province_id": 20
+    },
+    {
+        "name": "Gemena",
+        "province_id": 23
+    },
+    {
+        "name": "Goma",
+        "province_id": 19
+    },
+    {
+        "name": "Idiofa",
+        "province_id": 13
+    },
+    {
+        "name": "Ilebo",
+        "province_id": 7
+    },
+    {
+        "name": "Kisantu",
+        "province_id": 11
+    },
+    {
+        "name": "Inongo",
+        "province_id": 16
+    },
+    {
+        "name": "Isiro",
+        "province_id": 5
+    },
+    {
+        "name": "Kabalo",
+        "province_id": 24
+    },
+    {
+        "name": "Kabinda",
+        "province_id": 4
+    },
+    {
+        "name": "Kalemie",
+        "province_id": 24
+    },
+    {
+        "name": "Kalima",
+        "province_id": 17
+    },
+    {
+        "name": "Kambove",
+        "province_id": 3
+    },
+    {
+        "name": "Kamina",
+        "province_id": 4
+    },
+    {
+        "name": "Kananga",
+        "province_id": 8
+    },
+    {
+        "name": "Kaniama",
+        "province_id": 4
+    },
+    {
+        "name": "Kanyabayonga",
+        "province_id": 19
+    },
+    {
+        "name": "Kasangulu",
+        "province_id": 11
+    },
+    {
+        "name": "Kasongo",
+        "province_id": 17
+    },
+    {
+        "name": "Katanda",
+        "province_id": 9
+    },
+    {
+        "name": "Katwa",
+        "province_id": 19
+    },
+    {
+        "name": "Kayna",
+        "province_id": 19
+    },
+    {
+        "name": "Kabeya",
+        "province_id": 9
+    },
+    {
+        "name": "Kenge",
+        "province_id": 12
+    },
+    {
+        "name": "Kikwit",
+        "province_id": 13
+    },
+    {
+        "name": "Kimpese",
+        "province_id": 11
+    },
+    {
+        "name": "Kindu",
+        "province_id": 17
+    },
+    {
+        "name": "Kinshasa",
+        "province_id": 10
+    },
+    {
+        "name": "Kikondja",
+        "province_id": 4
+    },
+    {
+        "name": "Kipushi",
+        "province_id": 3
+    },
+    {
+        "name": "Kirumba",
+        "province_id": 19
+    },
+    {
+        "name": "Kisangani",
+        "province_id": 25
+    },
+    {
+        "name": "Kituku",
+        "province_id": 24
+    },
+    {
+        "name": "Kolwezi",
+        "province_id": 15
+    },
+    {
+        "name": "Kongolo",
+        "province_id": 24
+    },
+    {
+        "name": "Kutu",
+        "province_id": 16
+    },
+    {
+        "name": "Libenge",
+        "province_id": 23
+    },
+    {
+        "name": "Likasi",
+        "province_id": 3
+    },
+    {
+        "name": "Lisala",
+        "province_id": 18
+    },
+    {
+        "name": "Lodja",
+        "province_id": 21
+    },
+    {
+        "name": "Lubao",
+        "province_id": 14
+    },
+    {
+        "name": "Lubero",
+        "province_id": 19
+    },
+    {
+        "name": "Lubumbashi",
+        "province_id": 3
+    },
+    {
+        "name": "Luebo",
+        "province_id": 7
+    },
+    {
+        "name": "Lukula",
+        "province_id": 11
+    },
+    {
+        "name": "Luputa",
+        "province_id": 14
+    },
+    {
+        "name": "Lusambo",
+        "province_id": 21
+    },
+    {
+        "name": "Malemba-Nkulu",
+        "province_id": 4
+    },
+    {
+        "name": "Mangai",
+        "province_id": 13
+    },
+    {
+        "name": "Matango",
+        "province_id": 19
+    },
+    {
+        "name": "Manono",
+        "province_id": 24
+    },
+    {
+        "name": "Masi-Manimba",
+        "province_id": 13
+    },
+    {
+        "name": "Matadi",
+        "province_id": 11
+    },
+    {
+        "name": "Mbandaka",
+        "province_id": 2
+    },
+    {
+        "name": "Mbanza-Ngungu",
+        "province_id": 11
+    },
+    {
+        "name": "Mbuji-Mayi",
+        "province_id": 9
+    },
+    {
+        "name": "Miabi",
+        "province_id": 9
+    },
+    {
+        "name": "Moanda",
+        "province_id": 11
+    },
+    {
+        "name": "Moba",
+        "province_id": 24
+    },
+    {
+        "name": "Mokambo",
+        "province_id": 3
+    },
+    {
+        "name": "Mongbwalu",
+        "province_id": 6
+    },
+    {
+        "name": "Mulongo",
+        "province_id": 4
+    },
+    {
+        "name": "Mushie",
+        "province_id": 16
+    },
+    {
+        "name": "Mweka",
+        "province_id": 7
+    },
+    {
+        "name": "Mwenw-Ditu",
+        "province_id": 14
+    },
+    {
+        "name": "Nioki",
+        "province_id": 16
+    },
+    {
+        "name": "Nyunzu",
+        "province_id": 24
+    },
+    {
+        "name": "Oicha",
+        "province_id": 19
+    },
+    {
+        "name": "Pweto",
+        "province_id": 3
+    },
+    {
+        "name": "Rutshuru",
+        "province_id": 19
+    },
+    {
+        "name": "Tshela",
+        "province_id": 11
+    },
+    {
+        "name": "Tshikapa",
+        "province_id": 7
+    },
+    {
+        "name": "Tshilenge",
+        "province_id": 9
+    },
+    {
+        "name": "Uvira",
+        "province_id": 22
+    },
+    {
+        "name": "Watsa",
+        "province_id": 5
+    },
+    {
+        "name": "Yangambi",
+        "province_id": 25
+    },
+    {
+        "name": "Zongo",
+        "province_id": 23
+    }
+]
