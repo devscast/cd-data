@@ -1,0 +1,288 @@
+[
+    {
+        "id": 1,
+        "name": "Bas-Uele",
+        "principalTown": "Buta",
+        "surface": "148 331",
+        "population": "1 138 000",
+        "latlng": {
+            "lat": 2.79326,
+            "lng": 24.7287
+        }
+    },
+    {
+        "id": 2,
+        "name": "Équateur",
+        "principalTown": "Mbandaka",
+        "surface": "103 902",
+        "population": "1 528 000",
+        "latlng": {
+            "lat": 0.0470732,
+            "lng": 18.2565
+        }
+    },
+    {
+        "id": 3,
+        "name": "Haut-Katanga",
+        "principalTown": "Lubumbashi",
+        "surface": "132 425",
+        "population": "4 617 000",
+        "latlng": {
+            "lat": -11.6643,
+            "lng": 27.4826
+        }
+    },
+    {
+        "id": 4,
+        "name": "Haut-Lomami",
+        "principalTown": "Kamina",
+        "surface": "108 204",
+        "population": "2 957 000",
+        "latlng": {
+            "lat": -8.73518,
+            "lng": 25.0032
+        }
+    },
+    {
+        "id": 5,
+        "name": "Haut-Uele",
+        "principalTown": "Isiro",
+        "surface": "89 683",
+        "population": "1 864 000",
+        "latlng": {
+            "lat": 2.77427,
+            "lng": 27.6208
+        }
+    },
+    {
+        "id": 6,
+        "name": "Ituri",
+        "principalTown": "Bunia",
+        "surface": "65 658",
+        "population": "3 650 000",
+        "latlng": {
+            "lat": 1.56205,
+            "lng": 30.2479
+        }
+    },
+    {
+        "id": 7,
+        "name": "Kasaï",
+        "principalTown": "Luebo",
+        "surface": "95 631",
+        "population": "2 801 000",
+        "latlng": {
+            "lat": -5.35358,
+            "lng": 21.4197
+        }
+    },
+    {
+        "id": 8,
+        "name": "Kasaï-Central",
+        "principalTown": "Kananga",
+        "surface": "60 958",
+        "population": "3 317 000",
+        "latlng": {
+            "lat": -5.89517,
+            "lng": 22.4086
+        }
+    },
+    {
+        "id": 9,
+        "name": "Kasaï-Oriental",
+        "principalTown": "Mbuji-Mayi",
+        "surface": "9 481",
+        "population": "3 145 000",
+        "latlng": {
+            "lat": -6.12589,
+            "lng": 23.5998
+        }
+    },
+    {
+        "id": 10,
+        "name": "Kinshasa",
+        "principalTown": "Kinshasa",
+        "surface": "9 965",
+        "population": "11 575 000",
+        "latlng": {
+            "lat": -4.32171,
+            "lng": 15.3126
+        }
+    },
+    {
+        "id": 11,
+        "name": "Kongo-Central",
+        "principalTown": "Matadi",
+        "surface": "53 920",
+        "population": "5 575 000",
+        "latlng": {
+            "lat": -5.82566,
+            "lng": 13.4609
+        }
+    },
+    {
+        "id": 12,
+        "name": "Kwango",
+        "principalTown": "Kenge",
+        "surface": "89 974",
+        "population": "2 152 000",
+        "latlng": {
+            "lat": -4.80595,
+            "lng": 17.0387
+        }
+    },
+    {
+        "id": 13,
+        "name": "Kwilu",
+        "principalTown": "Kikwit",
+        "surface": "78 219",
+        "population": "5 490 000",
+        "latlng": {
+            "lat": -5.03831,
+            "lng": 18.8178
+        }
+    },
+    {
+        "id": 14,
+        "name": "Lomami",
+        "principalTown": "Kabinda",
+        "surface": "56 426",
+        "population": "2 443 000",
+        "latlng": {
+            "lat": -6.13684,
+            "lng": 24.4862
+        }
+    },
+    {
+        "id": 15,
+        "name": "Lualaba",
+        "principalTown": "Kolwezi",
+        "surface": "121 308",
+        "population": "2 570 000",
+        "latlng": {
+            "lat": -10.717,
+            "lng": 25.467
+        }
+    },
+    {
+        "id": 16,
+        "name": "Mai-Ndombe",
+        "principalTown": "Inongo",
+        "surface": "127 465",
+        "population": "1 852 000",
+        "latlng": {
+            "lat": -1.92534,
+            "lng": 18.2864
+        }
+    },
+    {
+        "id": 17,
+        "name": "Maniema",
+        "principalTown": "Kindu",
+        "surface": "132 520",
+        "population": "2 333 000",
+        "latlng": {
+            "lat": -2.94938,
+            "lng": 25.9184
+        }
+    },
+    {
+        "id": 18,
+        "name": "Mongala",
+        "principalTown": "Lisala",
+        "surface": "58 141",
+        "population": "1 740 000",
+        "latlng": {
+            "lat": 2.14739,
+            "lng": 21.5157
+        }
+    },
+    {
+        "id": 19,
+        "name": "Nord-Kivu",
+        "principalTown": "Goma",
+        "surface": "59 483",
+        "population": "6 655 000",
+        "latlng": {
+            "lat": -1.66657,
+            "lng": 29.2257
+        }
+    },
+    {
+        "id": 20,
+        "name": "Nord-Ubangi",
+        "principalTown": "Gbadolite",
+        "surface": "56 644",
+        "population": "1 269 000",
+        "latlng": {
+            "lat": 4.28143,
+            "lng": 20.9997
+        }
+    },
+    {
+        "id": 21,
+        "name": "Sankuru",
+        "principalTown": "Lusambo",
+        "surface": "104 331",
+        "population": "2 110 000",
+        "latlng": {
+            "lat": -4.97364,
+            "lng": 23.4433
+        }
+    },
+    {
+        "id": 22,
+        "name": "Sud-Kivu",
+        "principalTown": "Bukavu",
+        "surface": "65 070",
+        "population": "5 772 000",
+        "latlng": {
+            "lat": -2.50558,
+            "lng": 28.8595
+        }
+    },
+    {
+        "id": 23,
+        "name": "Sud-Ubangi",
+        "principalTown": "Gemena",
+        "surface": "51 648",
+        "population": "2 458 000",
+        "latlng": {
+            "lat": 3.25493,
+            "lng": 19.7751
+        }
+    },
+    {
+        "id": 24,
+        "name": "Tanganyika",
+        "principalTown": "Kalemie",
+        "surface": "134 940",
+        "population": "3 062 000",
+        "latlng": {
+            "lat": -5.94602,
+            "lng": 29.1967
+        }
+    },
+    {
+        "id": 25,
+        "name": "Tshopo",
+        "principalTown": "Kisangani",
+        "surface": "199 567",
+        "population": "2 352 000",
+        "latlng": {
+            "lat": 0.518402,
+            "lng": 25.2057
+        }
+    },
+    {
+        "id": 26,
+        "name": "Tshuapa",
+        "principalTown": "Boende",
+        "surface": "132 957",
+        "population": "1 600 000",
+        "latlng": {
+            "lat": -0.283663,
+            "lng": 20.8826
+        }
+    }
+]
